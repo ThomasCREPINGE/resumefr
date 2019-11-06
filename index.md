@@ -9,13 +9,7 @@ Java Lead Developer
 <a href="crepinge.thomas@gmail.com">crepinge.thomas@gmail.com</a>
 </div>
 
-<div id="content">
-     <h3>Hello, this is a H3 tag</h3>
-
-    <p>a pararaph</p>
-</div>
-<div id="editor"></div>
-<button id="cmd">Generate PDF</button>
+<h4 onclick="window.print();"> Print </h4>
 
 ## Currently
 
@@ -42,24 +36,5 @@ __Institut Supérieur d'Electronique et du Numérique.__
 <!-- ### Footer
 
 Last updated: November 2019 -->
-
-<script>
-    var doc = new jsPDF();
-    var specialElementHandlers = {
-        '#editor': function (element, renderer) {
-            return true;
-        }
-    };
-
-    $('#cmd').click(function () {
-        doc.fromHTML($('#content').html(), 15, 15, {
-            'width': 170,
-                'elementHandlers': specialElementHandlers
-        });
-        doc.save('sample-file.pdf');
-    });
-
-    // This code is collected but useful, click below to jsfiddle link.
-</script>
 
 
