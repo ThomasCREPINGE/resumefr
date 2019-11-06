@@ -9,6 +9,8 @@ Java Lead Developer
 <a href="crepinge.thomas@gmail.com">crepinge.thomas@gmail.com</a>
 </div>
 
+<a href="http://thomascrepinge.github.io/resume"
+   download="Resume">Télécharger</a>
 
 ## Currently
 
