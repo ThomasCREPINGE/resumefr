@@ -2,7 +2,6 @@
 layout: cv
 title: Thomas CREPINGE's CV
 ---
-
 # Thomas CREPINGE
 Java Lead Developer
 
@@ -18,8 +17,7 @@ Lead developer for Decathlon
 
 ### Specialized in
 
--Java language
--API REST architecture
+Java language, API REST architecture
 
 
 ## Education
@@ -29,14 +27,6 @@ __Lycée Voltaire de Wingles, Baccalauréat scientifique__
 
 `2010-2016`
 __Institut Supérieur d'Electronique et du Numérique.__
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
 
 
 ## Leasures
