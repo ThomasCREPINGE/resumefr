@@ -1,4 +1,6 @@
-
+---
+layout: cv
+title: Thomas CREPINGE's CV
 ---
 
 # Thomas CREPINGE
