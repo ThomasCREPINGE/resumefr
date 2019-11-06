@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Thomas CREPINGE's CV
+title: Thomas CREPINGE
 ---
 # Thomas CREPINGE
 Java Lead Developer
