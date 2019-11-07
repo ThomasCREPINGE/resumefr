@@ -126,6 +126,7 @@ h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
+	margin-bottom: 1em;
 }
 
 h2 {
@@ -140,11 +141,13 @@ h2 {
 
 h3 {
 	font-size: 1em;
-	line-height: 0.5em; 
+	font-style: italic;
+	color: #2F4F4F;
+	/*line-height: 0.5em;*/
 	position: relative;
-	top: 1.7em;
+	/*top: 1.7em;*/
 	text-align: right;
-	width: 28%;
+	width: 31%;
 }
 
 a {
