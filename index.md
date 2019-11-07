@@ -7,7 +7,7 @@ Java Lead Developer
 
 [crepinge.thomas@gmail.com](crepinge.thomas@gmail.com)
 
-##<span onclick="window.print();"> Print </span>##
+##Print##
 
 ## Currently
 
@@ -34,5 +34,12 @@ __Institut Supérieur d'Electronique et du Numérique.__
 <!-- ### Footer
 
 Last updated: November 2019 -->
+
+<script>
+
+	var p = document.getElementById("print");
+	p.onclick = window.print();
+	
+<script>
 
 
