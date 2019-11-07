@@ -5,9 +5,25 @@ title: Thomas CREPINGE
 # Thomas CREPINGE
 Java Lead Developer
 
-[crepinge.thomas@gmail.com](crepinge.thomas@gmail.com)
+## Address
 
-## Print
+5, rue Catel Beghin
+59000 Lille
+France
+
+## Mail
+
+crepinge.thomas@gmail.com
+
+##Phone
+
+(+33) 06 01 06 58 54
+
+## Date of birth
+
+June 10th, 1992
+
+#### Print
 
 ## Currently
 
@@ -38,7 +54,7 @@ Last updated: November 2019 -->
 <script>
 
 	var p = document.getElementById("print");
-	p.onclick = window.print();
+	p.onclick = window.print;
 	
 <script>
 
