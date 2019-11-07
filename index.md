@@ -28,13 +28,11 @@ June 10th, 1992
 
 ## Personnality
 
-`Qualities`
-* Pragmatism
-* Autonomous
+### Qualities
+Pragmatism, Autonomous
 
-`Weaknesses`
-* Timeliness
-* Reclusive
+### Weaknesses
+Timeliness, Reclusive
 
 ## Skills
 
@@ -44,6 +42,7 @@ June 10th, 1992
 * SQL
 
 `Library`
+* Lombok
 
 `Framework`
 * Spring MVC / Hibernate / JPA
