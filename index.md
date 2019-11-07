@@ -39,15 +39,18 @@ June 10th, 1992
 * Spring MVC
 * Hibernate
 * JPA
+* JUnit / Mockito / QuickCheck
 
 `Architecture`
-REST
+* REST
+* Micro-services
 
 `Tools`
 * Maven
 * Git
 * Sonar
 * Jenkins
+* JMEter
 
 
 ## Education
