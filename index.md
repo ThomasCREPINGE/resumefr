@@ -27,6 +27,15 @@ June 10th, 1992
 
 <button id="bt-print" onclick="window.print();">Print !</button>
 
+## Personnality
+
+`Qualities`
+* Pragmatism
+* Autonomous
+
+`Weaknesses`
+* Timeliness
+* Reclusive
 
 ## Skills
 
@@ -52,14 +61,19 @@ June 10th, 1992
 * Jenkins
 * JMEter
 
+## Experiences
+
+`2016-2017`
+Developer
+
+`2017-2019`
+Lead Developer
 
 ## Education
 
-`2007-2010`
-__Lycée Voltaire de Wingles, Baccalauréat scientifique__
-
 `2010-2016`
-__Institut Supérieur d'Electronique et du Numérique.__
+__Institut Supérieur d'Electronique et du Numérique, Lille, France__
+Engineering diploma : Project Management and Business Development in Information Technologies
 
 ---
 
