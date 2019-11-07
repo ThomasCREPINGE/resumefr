@@ -45,29 +45,32 @@ June 10th, 1992
 * SQL
 
 `Framework`
-* Spring MVC
-* Hibernate
-* JPA
+* Spring MVC / Hibernate / JPA
 * JUnit / Mockito / QuickCheck
+
+`Database`
+* Postgres
 
 `Architecture`
 * REST
-* Micro-services
 
 `Tools`
-* Maven
-* Git
-* Sonar
-* Jenkins
-* JMEter
+* Maven / Git / Sonar / Jenkins
+* JMEter / Postman
 
 ## Experiences
 
 `2016-2017`
-Developer
+Decathlon - _Customer Invoice application_
+__Full stack developer__
+* In duet with a project owner
+* Responsible for both run and build
 
 `2017-2019`
-Lead Developer
+Decathlon - _Customer Invoice application_
+__Lead Developer__
+* In a team composed of a project owner, a front/mobile developer, a customer support and a qualiter assessor
+* Responsible for applicative architecture and continuous improvment
 
 ## Education
 
@@ -77,7 +80,7 @@ Engineering diploma : Project Management and Business Development in Information
 
 ---
 
-Last updated: November 2019
+_Last updated: November 7th, 2019_
 
 
 
