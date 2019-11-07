@@ -26,8 +26,6 @@ June 10th, 1992
 
 ---
 
-<button id="bt-print" onclick="window.print();">Print !</button>
-
 ## Personnality
 
 `Qualities`
@@ -86,6 +84,8 @@ June 10th, 1992
 * Engineering diploma : Project Management and Business Development in Information Technologies
 
 ---
+
+<button id="bt-print" onclick="window.print();">Print !</button>
 
 _Last updated: November 7th, 2019_
 
