@@ -67,7 +67,7 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 1.1em;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #2F4F4F;
@@ -75,7 +75,7 @@ code {
 
 p code {
 	position: absolute;
-	left: -5%;
+	left: -8%;
 }
 
 
@@ -130,9 +130,10 @@ h1+p {
 }
 
 h2 {
-	font-size: 1.1em;
+	font-size: 2em;
+	font-style: italic;
 	color: #2F4F4F;
-	margin-top: 3em;
+	margin-top: 1em;
 	position: relative;
 	/* top: 1.4em; */
 	text-align: right;
