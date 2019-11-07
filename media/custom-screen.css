@@ -75,7 +75,7 @@ code {
 
 p code {
 	position: absolute;
-	left: -8%;
+	left: -10%;
 }
 
 
@@ -137,7 +137,7 @@ h2 {
 	position: relative;
 	/* top: 1.4em; */
 	text-align: right;
-	width: 26%;
+	width: 24%;
 }
 
 h3 {
