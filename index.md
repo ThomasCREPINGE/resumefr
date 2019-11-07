@@ -36,50 +36,50 @@ Timeliness, Reclusive
 
 ## Skills
 
-`Language`
-* Java 8
-* Javascript
-* SQL
+### Language
+Java 8, Javascript, SQL
 
-`Library`
-* Lombok
+### Library
+Lombok
 
-`Framework`
+### Framework
 * Spring MVC / Hibernate / JPA
 * JUnit / Mockito / QuickCheck
 
-`Database`
+### Database
 * Postgres
 
-`Architecture`
+### Architecture
 * REST
 
-`Tool`
+### Tool
 * Maven / Git / Sonar / Jenkins
 * JMEter / Postman
 
-`System`
-* Windows
-* Linux (CentOs)
+### System
+Windows, Linux (CentOs)
 
 ## Experiences
 
-`2016-2017`
+### 2016-2017
 * Decathlon - _Customer Invoice application_
-* __Full stack developer__
+* Full stack developer
 *  - In duet with a project owner
 *  - Responsible for both run and build
 
-`2017-2019`
+### 2017-2019
 * Decathlon - _Customer Invoice application_
-* __Lead Developer__
+* Lead Developer
 *  - In a team composed of a project owner, a front/mobile developer, a customer support and a qualiter assessor
 *  - Responsible for applicative architecture and continuous improvment
 
+### 2016
+Sopra Steria
+
 ## Education
 
-`2010-2016`
-* __Institut Supérieur d'Electronique et du Numérique, Lille, France__
+### 2010-2016
+* Institut Supérieur d'Electronique et du Numérique, Lille, France
 * Engineering diploma : Project Management and Business Development in Information Technologies
 
 ---
