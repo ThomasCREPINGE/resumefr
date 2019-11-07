@@ -5,6 +5,7 @@ title: Thomas CREPINGE
 # Thomas CREPINGE
 Java Lead Developer
 
+
 ### Address
 
 5, rue Catel Beghin
@@ -39,10 +40,12 @@ June 10th, 1992
 
 ## Skills
 
-`Languages`
+`Language`
 * Java 8
 * Javascript
 * SQL
+
+`Library`
 
 `Framework`
 * Spring MVC / Hibernate / JPA
@@ -54,29 +57,33 @@ June 10th, 1992
 `Architecture`
 * REST
 
-`Tools`
+`Tool`
 * Maven / Git / Sonar / Jenkins
 * JMEter / Postman
+
+`System`
+* Windows
+* Linux (CentOs)
 
 ## Experiences
 
 `2016-2017`
-Decathlon - _Customer Invoice application_
-__Full stack developer__
-* In duet with a project owner
-* Responsible for both run and build
+* Decathlon - _Customer Invoice application_
+* __Full stack developer__
+*  - In duet with a project owner
+*  - Responsible for both run and build
 
 `2017-2019`
-Decathlon - _Customer Invoice application_
-__Lead Developer__
-* In a team composed of a project owner, a front/mobile developer, a customer support and a qualiter assessor
-* Responsible for applicative architecture and continuous improvment
+* Decathlon - _Customer Invoice application_
+* __Lead Developer__
+*  - In a team composed of a project owner, a front/mobile developer, a customer support and a qualiter assessor
+*  - Responsible for applicative architecture and continuous improvment
 
 ## Education
 
 `2010-2016`
-__Institut Supérieur d'Electronique et du Numérique, Lille, France__
-Engineering diploma : Project Management and Business Development in Information Technologies
+* __Institut Supérieur d'Electronique et du Numérique, Lille, France__
+* Engineering diploma : Project Management and Business Development in Information Technologies
 
 ---
 
