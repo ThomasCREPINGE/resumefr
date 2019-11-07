@@ -5,29 +5,25 @@ title: Thomas CREPINGE
 # Thomas CREPINGE
 Java Lead Developer
 
-## Address
+### Address
 
 5, rue Catel Beghin
 59000 Lille
 France
 
-## Mail
+### Mail
 
 crepinge.thomas@gmail.com
 
-##Phone
+### Phone
 
 (+33) 06 01 06 58 54
 
-## Date of birth
+### Date of birth
 
 June 10th, 1992
 
-#### Print
-
-## Currently
-
-Lead developer for Decathlon
+<button id="bt-print" onclick="window.print();">Print !</button>
 
 
 ### Specialized in
@@ -46,16 +42,11 @@ __Institut Supérieur d'Electronique et du Numérique.__
 
 ## Leasures
 
+---
 
-<!-- ### Footer
+### Footer
 
 Last updated: November 2019 -->
 
-<script>
-
-	var p = document.getElementById("print");
-	p.onclick = window.print;
-	
-</script>
 
 
