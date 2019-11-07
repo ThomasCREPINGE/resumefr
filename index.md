@@ -56,6 +56,6 @@ Last updated: November 2019 -->
 	var p = document.getElementById("print");
 	p.onclick = window.print;
 	
-<script>
+</script>
 
 
