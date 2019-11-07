@@ -5,11 +5,9 @@ title: Thomas CREPINGE
 # Thomas CREPINGE
 Java Lead Developer
 
-<div id="webaddress">
-<a href="crepinge.thomas@gmail.com">crepinge.thomas@gmail.com</a>
-</div>
+[crepinge.thomas@gmail.com](crepinge.thomas@gmail.com)
 
-<h4 onclick="window.print();"> Print </h4>
+##<span onclick="window.print();"> Print </span>##
 
 ## Currently
 
