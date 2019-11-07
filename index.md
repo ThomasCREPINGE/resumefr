@@ -23,12 +23,31 @@ crepinge.thomas@gmail.com
 
 June 10th, 1992
 
+---
+
 <button id="bt-print" onclick="window.print();">Print !</button>
 
 
-### Specialized in
+## Skills
 
-Java language, API REST architecture
+`Languages`
+* Java 8
+* Javascript
+* SQL
+
+`Framework`
+* Spring MVC
+* Hibernate
+* JPA
+
+`Architecture`
+REST
+
+`Tools`
+* Maven
+* Git
+* Sonar
+* Jenkins
 
 
 ## Education
@@ -39,14 +58,9 @@ __Lycée Voltaire de Wingles, Baccalauréat scientifique__
 `2010-2016`
 __Institut Supérieur d'Electronique et du Numérique.__
 
-
-## Leasures
-
 ---
 
-### Footer
-
-Last updated: November 2019 -->
+Last updated: November 2019
 
 
 
