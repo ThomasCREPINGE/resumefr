@@ -3,25 +3,9 @@ layout: cv
 title: Thomas CREPINGE
 ---
 # Thomas CREPINGE
-Java Lead Developer
-
-
-### Address
-
-5, rue Catel Beghin
-59000 Lille
-France
-
-### Mail
-
+5, rue Catel Beghin, 59000 Lille, France
 crepinge.thomas@gmail.com
-
-### Phone
-
 (+33) 06 01 06 58 54
-
-### Date of birth
-
 June 10th, 1992
 
 ---
