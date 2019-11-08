@@ -16,11 +16,22 @@ June 10th, 1992
 
 ## Personnalité
 
-### Qualités
-Pragmatisme, Autonomie
+[Virtuose ISTP](https://www.16personalities.com/istps-at-work)
 
-### Faiblesses
-Timeliness, Reclusive
+### Esprit
+83% Introverti / 17% Extraverti
+
+### Energie
+69% Observateur / 31% Intuitif
+
+### Nature
+61% Penséé / 39% Sentiment
+
+### Tactique
+58% Prospection / 42% Jugement
+
+### Identité
+96% Assuré / 4% Prudent
 
 ## Compétences
 
@@ -95,7 +106,7 @@ Notions
 
 [Mail](mailto:crepinge.thomas@gmail.com)
 
-*Last updated: November 7th, 2019*
+*Last updated: November 8th, 2019*
 
 
 
