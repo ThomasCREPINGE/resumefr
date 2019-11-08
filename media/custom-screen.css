@@ -76,9 +76,10 @@ h1 {
 	font-size: 3em;
 	font-style: strong;
 	color: #2F4F4F;
+	margin-bottom: 0.5em;
+	position: relative;
 	text-align: left;
 	line-height: 1em;
-	position: relative;
 	left: 33%;
 }
 
@@ -94,7 +95,6 @@ h2 {
 	color: #2F4F4F;
 	margin-top: 0.5em;
 	position: relative;
-	/* top: 1.4em; */
 	text-align: right;
 	width: 24%;
 }
@@ -103,9 +103,8 @@ h3 {
 	font-size: 1em;
 	font-style: italic;
 	color: #2F4F4F;
-	/*line-height: 0.5em;*/
+	margin-top: 0.5em;
 	position: relative;
-	/*top: 1.7em;*/
 	text-align: right;
 	width: 31%;
 }
