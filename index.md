@@ -49,16 +49,19 @@ Windows, Linux (CentOs)
 ## Expériences
 
 ### 2016-2017
-_Decathlon_ - Customer Invoice application
-Full stack developer
-In duet with a project owner
-Responsible for both run and build
+_Econocom_ - Application de centralisation des factures pour Decathlon
+Developpeur full stack
+En duo avec un product owner, je prends en charge le Run et le Build sur l'application Customer Invoice.
+* Développement de l'API Rest
+* Développement de l'interface utilisateur et du back office
+
 
 ### 2017-2019
-_Decathlon_ - Customer Invoice application
+_Econocom_ - Application de centralisation des factures pour Decathlon
 Lead Developer
-In a team composed of a project owner, a front/mobile developer, a customer support and a qualiter assessor
-Responsible for applicative architecture and continuous improvment
+Après un renforcement de l'équipe, je supervise l'aspect technique de l'application.
+* Coordination des développements (2 personnes)
+* Rédaction de spécifications techniques
 
 ### 2016
 _Sopra Steria_ - European Innstitutions
@@ -67,7 +70,17 @@ _Sopra Steria_ - European Innstitutions
 
 ### 2010-2016
 Institut Supérieur d'Electronique et du Numérique, Lille, France
-Diplôme d'ingénieur : Management de projet en Technilogie de l'Information
+Diplôme d'ingénieur : Gestion de Projet et Ingénierie d’Affaires en Technologie de l’Informations
+
+## Langues
+
+### Anglais
+
+Technique, First Certificate
+
+### Japonais
+
+Notions
 
 ---
 
