@@ -28,18 +28,20 @@ Timeliness, Reclusive
 Java 8, Javascript, SQL
 
 ### Framework
-* Spring MVC / Hibernate / JPA
-* JUnit / Mockito / QuickCheck
+Spring MVC, Hibernate, JPA
+
+JUnit, Mockito, QuickCheck
 
 ### Base de données
-* Postgres
+Postgres
 
 ### Architecture
-* REST
+REST
 
 ### Outils
-* Maven / Git / Sonar / Jenkins
-* JMEter / Postman
+Maven, Git, Sonar, Jenkins
+
+JMEter, Postman
 
 ### Système
 Windows, Linux (CentOs)
