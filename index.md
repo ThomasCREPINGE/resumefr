@@ -50,16 +50,22 @@ Windows, Linux (CentOs)
 
 ### 2016-2017
 _Econocom_ - Application de centralisation des factures pour Decathlon
+
 Developpeur full stack
+
 En duo avec un product owner, je prends en charge le Run et le Build sur l'application Customer Invoice.
+
 * Développement de l'API Rest
 * Développement de l'interface utilisateur et du back office
 
 
 ### 2017-2019
 _Econocom_ - Application de centralisation des factures pour Decathlon
+
 Lead Developer
+
 Après un renforcement de l'équipe, je supervise l'aspect technique de l'application.
+
 * Coordination des développements (2 personnes)
 * Rédaction de spécifications techniques
 
@@ -70,6 +76,7 @@ _Sopra Steria_ - European Innstitutions
 
 ### 2010-2016
 Institut Supérieur d'Electronique et du Numérique, Lille, France
+
 Diplôme d'ingénieur : Gestion de Projet et Ingénierie d’Affaires en Technologie de l’Informations
 
 ## Langues

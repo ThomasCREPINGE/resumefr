@@ -110,32 +110,24 @@ h3 {
 }
 
 ul { 
+	color: #2F4F4F;
 	position: relative;
 	left: 33%;
+	margin-bottom: 0.2em;
 	width: 65%;
-	margin-bottom: 1.5em;
-	margin-top: -0.5em;
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
+li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}*/
-
-li {
-	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
-	/*color: #777;*/
 }
 
-li ul {
+li {
+	color: #2F4F4F;
 	position: relative;
-	left: 0;
 	width: 100%;
-	margin-top: 0.25em;
 }
 
 a {
