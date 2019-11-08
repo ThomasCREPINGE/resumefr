@@ -3,6 +3,7 @@ layout: cv
 title: Thomas CREPINGE
 ---
 # Thomas CREPINGE
+
 5, rue Catel Beghin, 59000 Lille, France
 
 crepinge.thomas@gmail.com
@@ -21,32 +22,29 @@ Pragmatisme, Autonomie
 ### Faiblesses
 Timeliness, Reclusive
 
-## Skills
+## Compétences
 
-### Language
+### Langages
 Java 8, Javascript, SQL
-
-### Library
-Lombok
 
 ### Framework
 * Spring MVC / Hibernate / JPA
 * JUnit / Mockito / QuickCheck
 
-### Database
+### Base de données
 * Postgres
 
 ### Architecture
 * REST
 
-### Tool
+### Outils
 * Maven / Git / Sonar / Jenkins
 * JMEter / Postman
 
-### System
+### Système
 Windows, Linux (CentOs)
 
-## Experiences
+## Expériences
 
 ### 2016-2017
 * Decathlon - _Customer Invoice application_
@@ -63,11 +61,11 @@ Windows, Linux (CentOs)
 ### 2016
 Sopra Steria
 
-## Education
+## Formation
 
 ### 2010-2016
 * Institut Supérieur d'Electronique et du Numérique, Lille, France
-* Engineering diploma : Project Management and Business Development in Information Technologies
+* Diplôme d'ingénieur : Management de projet en Technilogie de l'Information
 
 ---
 
