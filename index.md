@@ -37,13 +37,13 @@ June 10th, 1992
 
 ### Langages
 Java 8
-[=100% "100%"]
+<progress max="100" value="100"></progress>
 
 Javascript
-[=80% "80%"]
+<progress max="100" value="80"></progress>
 
 SQL
-[=80% "80%"]
+<progress max="100" value="80"></progress>
 
 ### Framework
 Spring MVC, Hibernate, JPA
