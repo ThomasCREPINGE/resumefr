@@ -36,14 +36,11 @@ June 10th, 1992
 ## Compétences
 
 ### Langages
-Java 8
-<progress max="100" value="100"></progress>
+Java 8 <progress max="100" value="100"></progress>
 
-Javascript
-<progress max="100" value="80"></progress>
+Javascript <progress max="100" value="80"></progress>
 
-SQL
-<progress max="100" value="80"></progress>
+SQL <progress max="100" value="80"></progress>
 
 ### Framework
 Spring MVC, Hibernate, JPA
@@ -71,10 +68,9 @@ _Econocom_ - Application de centralisation des factures pour Decathlon
 
 Developpeur full stack
 
-En duo avec un product owner, je prends en charge le Run et le Build sur l'application Customer Invoice.
-
-* Développement de l'API Rest
+* Développement de l'API REST
 * Développement de l'interface utilisateur et du back office
+* Tests unitaires et d'intégration
 
 
 ### 2017-2019
@@ -82,7 +78,7 @@ _Econocom_ - Application de centralisation des factures pour Decathlon
 
 Lead Developer
 
-Après un renforcement de l'équipe, je supervise l'aspect technique de l'application.
+
 
 * Coordination des développements (2 personnes)
 * Rédaction de spécifications techniques
