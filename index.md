@@ -16,7 +16,7 @@ June 10th, 1992
 
 ## Personnalité
 
-[Virtuose ISTP](https://www.16personalities.com/istps-at-work)
+[_Virtuose ISTP_](https://www.16personalities.com/istps-at-work)
 
 ### Esprit
 83% Introverti / 17% Extraverti
@@ -36,7 +36,14 @@ June 10th, 1992
 ## Compétences
 
 ### Langages
-Java 8, Javascript, SQL
+Java 8
+[=100% "100%"]
+
+Javascript
+[=80% "80%"]
+
+SQL
+[=80% "80%"]
 
 ### Framework
 Spring MVC, Hibernate, JPA
@@ -52,7 +59,7 @@ REST
 ### Outils
 Maven, Git, Sonar, Jenkins
 
-JMEter, Postman
+JMeter, Postman
 
 ### Système
 Windows, Linux (CentOs)
