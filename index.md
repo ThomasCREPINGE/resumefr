@@ -73,6 +73,8 @@ Diplôme d'ingénieur : Management de projet en Technilogie de l'Information
 
 <button id="bt-print" onclick="window.print();">Print !</button>
 
+[Mail](mailto:crepinge.thomas@gmail.com)
+
 *Last updated: November 7th, 2019*
 
 
