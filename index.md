@@ -4,18 +4,21 @@ title: Thomas CREPINGE
 ---
 # Thomas CREPINGE
 5, rue Catel Beghin, 59000 Lille, France
+
 crepinge.thomas@gmail.com
+
 (+33) 06 01 06 58 54
+
 June 10th, 1992
 
 ---
 
-## Personnality
+## Personnalité
 
-### Qualities
-Pragmatism, Autonomous
+### Qualités
+Pragmatisme, Autonomie
 
-### Weaknesses
+### Faiblesses
 Timeliness, Reclusive
 
 ## Skills
