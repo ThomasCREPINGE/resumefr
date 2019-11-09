@@ -19,19 +19,19 @@ June 10th, 1992
 [_Virtuose ISTP_](https://www.16personalities.com/istps-at-work)
 
 ### Esprit
-83% Introverti / 17% Extraverti
+Introverti <progress max="100" value="83"></progress> Extraverti
 
 ### Energie
-69% Observateur / 31% Intuitif
+Observateur <progress max="100" value="69"></progress> Intuitif
 
 ### Nature
-61% Penséé / 39% Sentiment
+Penséé <progress max="100" value="61"></progress> Sentiment
 
 ### Tactique
-58% Prospection / 42% Jugement
+Prospection <progress max="100" value="58"></progress> Jugement
 
 ### Identité
-96% Assuré / 4% Prudent
+Assuré <progress max="100" value="96"></progress> Prudent
 
 ## Compétences
 
