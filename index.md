@@ -16,75 +16,55 @@ June 10th, 1992
 
 ## Personnalité
 
-Test MBTI : [_Virtuose ISTP_](https://www.16personalities.com/istps-at-work)
+### Test MBTI 
+[_Virtuose ISTP_](https://www.16personalities.com/istps-at-work)
 
-### Esprit
-Introverti <progress max="100" value="83"> 83% </progress> Extraverti
+Introverti : <progress max="100" value="83"></progress>
 
-### Energie
-Observateur <progress max="100" value="69"> 69% </progress> Intuitif
+Observateur : <progress max="100" value="69"></progress>
 
-### Nature
-Penséé <progress max="100" value="61"> 61% </progress> Sentiment
+Penséé : <progress max="100" value="61"></progress>
 
-### Tactique
-Prospection <progress max="100" value="58"> 58% </progress> Jugement
+Prospection : <progress max="100" value="58"></progress>
 
-### Identité
-Assuré <progress max="100" value="96"> 96% </progress> Prudent
+Assuré : <progress max="100" value="96"></progress>
 
 ## Compétences
 
-### Langages
-Java 8 <progress max="100" value="100"></progress>
+### Applicatif
+Java 8 : <progress max="100" value="90"></progress>
 
-Javascript <progress max="100" value="80"></progress>
-
-SQL <progress max="100" value="80"></progress>
-
-### Framework
-Spring MVC, Hibernate, JPA
-
-JUnit, Mockito, QuickCheck
+Spring MVC : <progress max="100" value="70"></progress>
 
 ### Base de données
-Postgres
+Postgresql : <progress max="100" value="60"></progress>
 
 ### Architecture
-REST
+REST API : <progress max="100" value="80"></progress>
 
 ### Outils
-Maven, Git, Sonar, Jenkins
+Git : <progress max="100" value="80"></progress>
 
-JMeter, Postman
+### Langues
+Anglais : <progress max="100" value="70"></progress>
 
-### Système
-Windows, Linux (CentOs)
+Japonais : <progress max="100" value="20"></progress>
 
 ## Expériences
 
-### 2016-2017
-_Econocom_ - Application de centralisation des factures pour Decathlon
-
-Developpeur full stack
-
-* Développement de l'API REST
-* Développement de l'interface utilisateur et du back office
-* Tests unitaires et d'intégration
-
-
-### 2017-2019
-_Econocom_ - Application de centralisation des factures pour Decathlon
-
-Lead Developer
-
-
-
-* Coordination des développements (2 personnes)
-* Rédaction de spécifications techniques
-
 ### 2016
-_Sopra Steria_ - European Innstitutions
+_Sopra Steria - European Institutions_ : Application d'identification des demandeurs d'asile
+
+* Développement de l'interface utilisateur avec Java Primefaces 
+
+### 2016-2019
+_Econocom_ : Application de centralisation des factures pour Decathlon
+
+* Build : Développement backend orienté API dans un environnement Java, Spring, Hibernate, JPA
+* Run : Analyse en dernier niveau de la gestion des incidents
+* Spécifications : chiffrage et analyse d'impacts
+* Amélioration continue : identification de KPI avec Sonar
+* Veille
 
 ## Formation
 
@@ -93,15 +73,6 @@ Institut Supérieur d'Electronique et du Numérique, Lille, France
 
 Diplôme d'ingénieur : Gestion de Projet et Ingénierie d’Affaires en Technologie de l’Informations
 
-## Langues
-
-### Anglais
-
-Technique, First Certificate
-
-### Japonais
-
-Notions
 
 ---
 
