@@ -16,22 +16,22 @@ June 10th, 1992
 
 ## Personnalité
 
-[_Virtuose ISTP_](https://www.16personalities.com/istps-at-work)
+Test MBTI : [_Virtuose ISTP_](https://www.16personalities.com/istps-at-work)
 
 ### Esprit
-Introverti <progress max="100" value="83"></progress> Extraverti
+Introverti <progress max="100" value="83"> 83% </progress> Extraverti
 
 ### Energie
-Observateur <progress max="100" value="69"></progress> Intuitif
+Observateur <progress max="100" value="69"> 69% </progress> Intuitif
 
 ### Nature
-Penséé <progress max="100" value="61"></progress> Sentiment
+Penséé <progress max="100" value="61"> 61% </progress> Sentiment
 
 ### Tactique
-Prospection <progress max="100" value="58"></progress> Jugement
+Prospection <progress max="100" value="58"> 58% </progress> Jugement
 
 ### Identité
-Assuré <progress max="100" value="96"></progress> Prudent
+Assuré <progress max="100" value="96"> 96% </progress> Prudent
 
 ## Compétences
 
