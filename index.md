@@ -25,25 +25,18 @@ Observateur : <progress max="100" value="69"></progress>
 
 Penséé : <progress max="100" value="61"></progress>
 
-Prospection : <progress max="100" value="58"></progress>
+<!-- Prospection : <progress max="100" value="58"></progress> -->
 
 Assuré : <progress max="100" value="96"></progress>
 
 ## Compétences
 
-### Applicatif
-Java 8 : <progress max="100" value="90"></progress>
+Java/JEE,  Spring : <progress max="100" value="90"></progress>
 
-Spring MVC : <progress max="100" value="70"></progress>
-
-### Base de données
-Postgresql : <progress max="100" value="60"></progress>
-
-### Architecture
 REST API : <progress max="100" value="80"></progress>
 
-### Outils
-Git : <progress max="100" value="80"></progress>
+Postgresql : <progress max="100" value="60"></progress>
+
 
 ### Langues
 Anglais : <progress max="100" value="70"></progress>
@@ -52,19 +45,17 @@ Japonais : <progress max="100" value="20"></progress>
 
 ## Expériences
 
-### 2016
-_Sopra Steria - European Institutions_ : Application d'identification des demandeurs d'asile
-
-* Développement de l'interface utilisateur avec Java Primefaces 
-
 ### 2016-2019
-_Econocom_ : Application de centralisation des factures pour Decathlon
+_Econocom - Lille - Decathlon_ 
 
-* Build : Développement backend orienté API dans un environnement Java, Spring, Hibernate, JPA
-* Run : Analyse en dernier niveau de la gestion des incidents
-* Spécifications : chiffrage et analyse d'impacts
-* Amélioration continue : identification de KPI avec Sonar
-* Veille
+Intégré à la business unit encaissement, ...
+
+### 2016
+_Sopra Steria - Bruxelles - European Institutions_
+*Ingénieur sécurité*
+
+Dans le cadre d'une solution d'identification des demandeurs d’asile suite à la crise migratoire que connait l'UE, 
+j'ai réalisé une interface dans un environnement Java Primefaces qui répond pleinement au besoin de fonctionnalité et d'ergonomie.
 
 ## Formation
 
@@ -73,6 +64,19 @@ Institut Supérieur d'Electronique et du Numérique, Lille, France
 
 Diplôme d'ingénieur : Gestion de Projet et Ingénierie d’Affaires en Technologie de l’Informations
 
+## Centres d'intérêt
+
+### Musique
+Guitare en autodidacte depuis 2009
+Piano en autodidacte depuis 2015
+
+### Danse
+Professeur de danse rock dans une association étudiante
+
+### Cultures asiatiques
+Voyage en Corée du Sud en 2018 et au Japon en 2019
+
+ 
 
 ---
 
