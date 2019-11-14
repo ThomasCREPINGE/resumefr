@@ -14,48 +14,77 @@ June 10th, 1992
 
 ---
 
+*Fort de trois années d'expérience dans le développement d'API dans un environement Java, 
+je cherche à approfondir le domaine au travers de technologies nouvelles : cloudification, micro-services, conteneurisation, etc ...**
+
 ## Personnalité
 
 ### Test MBTI 
-[_Virtuose ISTP_](https://www.16personalities.com/istps-at-work)
+[**Virtuose ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
 
-Introverti : <progress max="100" value="83"></progress>
+Introverti 
 
-Observateur : <progress max="100" value="69"></progress>
+<progress max="100" value="83"></progress>
 
-Penséé : <progress max="100" value="61"></progress>
+Observateur
+
+<progress max="100" value="69"></progress>
+
+Penséé
+
+<progress max="100" value="61"></progress>
 
 <!-- Prospection : <progress max="100" value="58"></progress> -->
 
-Assuré : <progress max="100" value="96"></progress>
+Assuré
+
+<progress max="100" value="96"></progress>
 
 ## Compétences
 
-Java/JEE,  Spring : <progress max="100" value="90"></progress>
+### Technique
+Java/JEE, Spring, Hibernate, JPA
 
-REST API : <progress max="100" value="80"></progress>
+<progress max="100" value="90"></progress>
 
-Postgresql : <progress max="100" value="60"></progress>
+REST API
 
+<progress max="100" value="90"></progress>
+
+Postgresql
+
+<progress max="100" value="75"></progress>
+
+Autres : Git, Maven, Sonar, Jenkins
 
 ### Langues
-Anglais : <progress max="100" value="70"></progress>
+Anglais
 
-Japonais : <progress max="100" value="20"></progress>
+<progress max="100" value="80"></progress>
+
+Japonais
+
+<progress max="100" value="20"></progress>
 
 ## Expériences
 
-### 2016-2019
-_Econocom - Lille - Decathlon_ 
+### 2018-2019
+**Econocom - Lille - Decathlon**, *Développeur*
 
-Intégré à la business unit encaissement, ...
+Dans le cadre d'une refonte du e-commerce et d'un objectif de dématérialisation, Decathlon a fait évoluer sa solution de gestion des factures.
+
+Intégré à la business unit encaissement, j'ai pris en charge, en complète autonomie, le run de l'application dans un environement d'API REST en Java 8 et Spring MVC.
+
+### 2016-2017
+
+Suite aux réussites de l'application, une équipe s'est organisée autour de celle-ci, dans laquelle j'ai pris le rôle de référent technique.
+
+Au delà du developpement, j'avais pour objectifs l'amélioration continue, l'architecture applicative, l'automatisation des process et l'analyse de dernier niveau des incidents.
 
 ### 2016
-_Sopra Steria - Bruxelles - European Institutions_
-*Ingénieur sécurité*
+**Sopra Steria - Bruxelles - European Institutions**, *Ingénieur sécurité*
 
-Dans le cadre d'une solution d'identification des demandeurs d’asile suite à la crise migratoire que connait l'UE, 
-j'ai réalisé une interface dans un environnement Java Primefaces qui répond pleinement au besoin de fonctionnalité et d'ergonomie.
+Dans le cadre d'une solution d'identification des demandeurs d’asile suite à la crise migratoire que connait l'UE, j'ai réalisé une interface dans un environnement Java Primefaces qui répond pleinement au besoin de fonctionnalité et d'ergonomie.
 
 ## Formation
 
@@ -67,16 +96,10 @@ Diplôme d'ingénieur : Gestion de Projet et Ingénierie d’Affaires en Technol
 ## Centres d'intérêt
 
 ### Musique
-Guitare en autodidacte depuis 2009
-Piano en autodidacte depuis 2015
+Guitare et piano en autodidacte.
 
 ### Danse
 Professeur de danse rock dans une association étudiante
-
-### Cultures asiatiques
-Voyage en Corée du Sud en 2018 et au Japon en 2019
-
- 
 
 ---
 

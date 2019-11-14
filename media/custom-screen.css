@@ -145,6 +145,8 @@ progress {
   -webkit-appearance: none;
   height: 1.1em;
   width: 20em;
+  position: relative;
+  left: 33%;
 }
 
 ::-webkit-progress-bar {
@@ -168,7 +170,7 @@ progress {
 }
 
 em {
-	font-weight: bold;
+	/* font-weight: bold; */
 	font-style: italic;
 }
 
