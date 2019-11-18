@@ -15,7 +15,7 @@ Né le 10 Juin 1992
 ---
 
 {:.description}
-*Fort de trois années d'expérience dans le développement d'API dans un environement Java, 
+*Fort de trois années d'expérience de développement d'API dans un environement Java, 
 je cherche à explorer de technologies nouvelles telles que la cloudification, les micro-services, la conteneurisation, etc ...*
 
 ## Personnalité
@@ -60,15 +60,15 @@ Introverti : 83% / Observateur : 69% / Rationnel : 61% / Assuré : 69%
 
 <div class= "screen" markdown="1">
 
-Java/JEE, Spring, Hibernate, JPA
+Java 8, JUnit 4
 
 <progress max="100" value="90"></progress>
 
-Testing (JUnit, Qhickcheck, Cucumber)
+Spring Data, Hibernate, JPA
 
-<progress max="100" value="90"></progress>
+<progress max="100" value="80"></progress>
 
-REST API
+Spring Web MVC, REST API
 
 <progress max="100" value="80"></progress>
 
@@ -76,27 +76,23 @@ Postgresql
 
 <progress max="100" value="70"></progress>
 
-Système : Linux(CentOS)
-
-<progress max="100" value="50"></progress>
-
 </div>
 
 <div class= "print" markdown="1">
 
-Java/JEE, Spring, Hibernate, JPA : 90%
+Java 8, JUnit 4 : 90%
 
-Testing (JUnit, Qhickcheck, Cucumber) : 90%
+Spring MVC, Hibernate, JPA : 80%
 
-REST API : 80%
+Spring Web, REST API : 80%
 
 Postgresql : 70%
-
-Système : Linux(CentOS) : 50%
 
 </div>
 
 *Outils : Git, Maven, Sonar, Jenkins, Postman*
+
+*Système : Windows, Linux CentOS*
 
 ### Langues
 
@@ -148,7 +144,7 @@ Associatif : Président du *Club ROCK ISEN*, Organisateur du *Rock'n'Lille*
 ## Centres d'intérêt
 
 ### Musique
-Guitare et piano en autodidacte.
+Guitare et piano en autodidacte, compositeur amateur
 
 ### Danse
 Professeur de danse rock dans une association étudiante
