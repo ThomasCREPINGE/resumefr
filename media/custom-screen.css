@@ -147,6 +147,7 @@ progress {
   width: 20em;
   position: relative;
   left: 33%;
+  margin-bottom: 1em;
 }
 
 ::-webkit-progress-bar {

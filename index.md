@@ -15,7 +15,7 @@ June 10th, 1992
 ---
 
 *Fort de trois années d'expérience dans le développement d'API dans un environement Java, 
-je cherche à approfondir le domaine au travers de technologies nouvelles : cloudification, micro-services, conteneurisation, etc ...**
+je cherche à approfondir le domaine au travers de technologies nouvelles : cloudification, micro-services, conteneurisation, etc ...*
 
 ## Personnalité
 
@@ -51,11 +51,19 @@ REST API
 
 <progress max="100" value="90"></progress>
 
-Postgresql
+Testing : JUnit, Qhickcheck, Cucumber
 
 <progress max="100" value="75"></progress>
 
-Autres : Git, Maven, Sonar, Jenkins
+Postgresql
+
+<progress max="100" value="70"></progress>
+
+Système : Linux(CentOS)
+
+<progress max="100" value="50"></progress>
+
+*Outils : Git, Maven, Sonar, Jenkins, Postman*
 
 ### Langues
 Anglais
@@ -68,30 +76,32 @@ Japonais
 
 ## Expériences
 
-### 2018-2019
-**Econocom - Lille - Decathlon**, *Développeur*
+### 2016-2017
+**Econocom, Lille, Decathlon** - *Développeur*
 
 Dans le cadre d'une refonte du e-commerce et d'un objectif de dématérialisation, Decathlon a fait évoluer sa solution de gestion des factures.
 
 Intégré à la business unit encaissement, j'ai pris en charge, en complète autonomie, le run de l'application dans un environement d'API REST en Java 8 et Spring MVC.
 
-### 2016-2017
+### 2018-2019
 
 Suite aux réussites de l'application, une équipe s'est organisée autour de celle-ci, dans laquelle j'ai pris le rôle de référent technique.
 
 Au delà du developpement, j'avais pour objectifs l'amélioration continue, l'architecture applicative, l'automatisation des process et l'analyse de dernier niveau des incidents.
 
 ### 2016
-**Sopra Steria - Bruxelles - European Institutions**, *Ingénieur sécurité*
+**Sopra Steria, Bruxelles, European Institutions** - *Ingénieur sécurité*
 
 Dans le cadre d'une solution d'identification des demandeurs d’asile suite à la crise migratoire que connait l'UE, j'ai réalisé une interface dans un environnement Java Primefaces qui répond pleinement au besoin de fonctionnalité et d'ergonomie.
 
 ## Formation
 
 ### 2010-2016
-Institut Supérieur d'Electronique et du Numérique, Lille, France
+**Institut Supérieur d'Electronique et du Numérique, Lille** - *Diplôme d'ingénieur*
 
-Diplôme d'ingénieur : Gestion de Projet et Ingénierie d’Affaires en Technologie de l’Informations
+Gestion de Projet et Ingénierie d’Affaires en Technologie de l’Informations
+
+Président de l'association *Club ROCK ISEN*, Organisateur du *Rock'n'Lille*
 
 ## Centres d'intérêt
 
@@ -107,7 +117,7 @@ Professeur de danse rock dans une association étudiante
 
 [Mail](mailto:crepinge.thomas@gmail.com)
 
-*Last updated: November 8th, 2019*
+*Dernière mise-à-jour: 14 Novembre 2019*
 
 
 
