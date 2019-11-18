@@ -1,7 +1,3 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
-*/
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -50,66 +46,37 @@ table {
 /* end of reset */
 
 
+html, body {
+	-webkit-print-color-adjust: exact; 
+}
 
 body {
 	font: normal normal 400;
-	font-size: 10pt;
-	line-height: 1.35em;
+	font-size: 80%;
+	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
-	/*margin-top: 1em;
-	margin-left: 1em;*/
+	margin-top: 1em;
+	margin-left: 1em;
+}
+
+.screen{
+	display: none;
 }
 
 p {
+	color: #2F4F4F;
 	position: relative;
-	left: 28%;
-	margin-bottom: 0.2em;
+	left: 23%;
+	/* margin-bottom: 0.2em; */
 	margin-right: 0;
-	width: 70%;
+	width: 77%;
+	/* line-height : 1em; */
 }
 
-code {
-	font: normal normal;
-	font-size: 60%;
-	/*line-height: 1em;*/
-	font-family: Menlo,monospace,sans-serif;
-	color: #ccc;
-}
-
-p code {
-	position: absolute;
-	left: -11%;
-}
-
-
-ul { 
-	position: relative;
-	left: 28%;
-	width: 65%;
-	margin-bottom: 1em;
-	/*margin-top: -0.5em;*/
-}
-
-/*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
-	position: relative;
-	left: -0.25em;
-}*/
-
-li {
-	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
-	/*color: #777;*/
-}
-
-li ul {
-	position: relative;
-	left: 0;
+.description {
+	left: 0%;
 	width: 100%;
-	margin-top: 0.25em;
 }
 
 h1,h2,h3,h4 {
@@ -119,76 +86,135 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	text-align: left;
-	font-size: 3em;
-	line-height: 1em;
+	font-size: 2em;
+	font-style: strong;
+	color: #0D2D2D;
+	margin-bottom: 0.2em;
 	position: relative;
-	left: 28%;
-}
-
-h1+p { 
-	/*subtitle*/
-	font-style: italic;
-	font-size: 110%;
+	text-align: left;
+	/* line-height: 1em; */
+	left: 25%;
 }
 
 h2 {
-	font-size: 1.1em;
-	color: #a00;
-	margin-top: 2em;
+	font-size: 1.3em;
+	font-style: italic;
+	color: #0D2D2D;
+	margin-top: 0.2em;
 	position: relative;
-	top: 1.2em;
 	text-align: right;
-	width: 18%;
+	/* line-height: 1em; */
+	width: 20%;
 }
-
 
 h3 {
 	font-size: 1em;
-	line-height: 2em; 
-	color: #ccc;
+	font-style: italic;
+	color: #1E3E3E;
+	margin-top: 0.2em;
 	position: relative;
-	top: 1.6em;
 	text-align: right;
-	width: 18%;
+	/* line-height: 1em; */
+	width: 22%;
+}
+
+
+ul { 
+	color: #2F4F4F;
+	position: relative;
+	left: 33%;
+	margin-bottom: 0.2em;
+	width: 65%;
+}
+
+/*uncomment to get dashes in the list*/
+li:before {
+	content: "-";
+	position: relative;
+	left: -0.25em;
+}
+
+li {
+	color: #2F4F4F;
+	position: relative;
+	padding-left: 0.5em;
+	width: 100%;
 }
 
 a {
 	color: inherit;
-	text-decoration:none
+	/*text-decoration:none*/
 }
 
 a:hover {
 	color:#39f
 }
 
-#webaddress {
-	margin-top: 1em;
-	position: relative;
-	left: 28%;
-	color: #ccc;
-	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+button {
+  visibility: hidden;
 }
 
-#webaddress a {
-	text-decoration: none;
+progress {
+  -webkit-appearance: none;
+  height: 1.1em;
+  width: 20em;
+  position: relative;
+  left: 25%;
+  margin-bottom: 1em;
 }
+
+::-webkit-progress-bar {
+   background-color: #FFFFFF;
+   border-radius: 15px;
+}
+
+::-webkit-progress-value {
+  background-color: #3F5F5F;
+  border-radius: 15px;
+}
+
+::-webkit-progress-inner-element {
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+}
+
+::-moz-progress-bar {
+  background-color: #3F5F5F;
+  border-radius: 15px;
+}
+
+/* ::-webkit-progress-bar { */
+   /* background-color: #FFFFFF; */
+   /* border-radius: 15px; */
+/* } */
+
+/* ::-webkit-progress-value { */
+  /* background-color: #3F5F5F; */
+  /* border-radius: 15px; */
+/* } */
+
+/* ::-webkit-progress-inner-element { */
+  /* border: 1px solid rgba(0, 0, 0, 0.5); */
+  /* border-radius: 15px; */
+/* } */
+
+/* ::-moz-progress-bar { */
+  /* background-color: #3F5F5F; */
+  /* border-radius: 15px; */
+/* } */
 
 em {
-	font-style: normal;
-	color: #2d4e5e 
+	/* font-weight: bold; */
+	font-style: italic;
 }
 
 strong {
 	font-weight: bold;
 }
 
-#ghbutton {
-	display: none;
-	visibility: hidden;
-}
 
 
-
-
+/*
+@media only screen and (max-width: 480px) {
+	make one column somehow...
+}*/

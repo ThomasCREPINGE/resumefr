@@ -57,6 +57,10 @@ body {
 	margin-left: 1em;
 }
 
+.print{
+	display: none;
+}
+
 p {
 	color: #2F4F4F;
 	position: relative;

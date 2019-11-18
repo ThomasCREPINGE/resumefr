@@ -6,7 +6,7 @@ title: Thomas CREPINGE
 
 5, rue Catel Beghin, 59000 Lille, France
 
-crepinge.thomas@gmail.com
+[crepinge.thomas@gmail.com](mailto:crepinge.thomas@gmail.com)
 
 (+33) 06 01 06 58 54
 
@@ -14,12 +14,16 @@ Né le 10 Juin 1992
 
 ---
 
+{:.description}
 *Fort de trois années d'expérience dans le développement d'API dans un environement Java, 
 je cherche à explorer de technologies nouvelles telles que la cloudification, les micro-services, la conteneurisation, etc ...*
 
 ## Personnalité
 
 ### Test MBTI 
+
+<div class= "screen" markdown="1">
+
 [**Virtuose ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
 
 Introverti 
@@ -40,14 +44,27 @@ Assuré
 
 <progress max="100" value="96"></progress>
 
+</div>
+
+<div class= "print" markdown="1">
+
+[**Virtuose ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
+
+Introverti : 83% / Observateur : 69% / Rationnel : 61% / Assuré : 69%
+
+</div>
+
 ## Compétences
 
 ### Technique
+
+<div class= "screen" markdown="1">
+
 Java/JEE, Spring, Hibernate, JPA
 
 <progress max="100" value="90"></progress>
 
-Testing : JUnit, Qhickcheck, Cucumber
+Testing (JUnit, Qhickcheck, Cucumber)
 
 <progress max="100" value="90"></progress>
 
@@ -63,9 +80,28 @@ Système : Linux(CentOS)
 
 <progress max="100" value="50"></progress>
 
+</div>
+
+<div class= "print" markdown="1">
+
+Java/JEE, Spring, Hibernate, JPA : 90%
+
+Testing (JUnit, Qhickcheck, Cucumber) : 90%
+
+REST API : 80%
+
+Postgresql : 70%
+
+Système : Linux(CentOS) : 50%
+
+</div>
+
 *Outils : Git, Maven, Sonar, Jenkins, Postman*
 
 ### Langues
+
+<div class= "screen" markdown="1">
+
 Anglais
 
 <progress max="100" value="80"></progress>
@@ -74,19 +110,25 @@ Japonais
 
 <progress max="100" value="20"></progress>
 
+</div>
+
+<div class= "print" markdown="1">
+
+Anglais : 80% / Japonais : 20%
+
+</div>
+
 ## Expériences
 
 ### 2016-2017
 **Econocom, Lille, Decathlon** - *Développeur*
 
 Dans le cadre d'une refonte du e-commerce et d'un objectif de dématérialisation, Decathlon a fait évoluer sa solution de gestion des factures.
-
 Intégré à la business unit encaissement, j'ai pris en charge, en complète autonomie, les correctis et les évolutions de l'API dans un environement Java 8 et Spring MVC.
 
 ### 2018-2019
 
 Suite aux réussites de l'application, une équipe s'est organisée autour de celle-ci, dans laquelle j'ai pris le rôle de référent technique.
-
 Au delà du developpement orinté Back End, j'avais pour objectifs l'amélioration continue, l'architecture applicative, l'automatisation des process et l'analyse de dernier niveau des incidents.
 
 ### 2016
@@ -101,7 +143,7 @@ Dans le cadre d'une solution d'identification des demandeurs d’asile suite à 
 
 Gestion de Projet et Ingénierie d’Affaires en Technologie de l’Informations
 
-Président de l'association *Club ROCK ISEN*, Organisateur du *Rock'n'Lille*
+Associatif : Président du *Club ROCK ISEN*, Organisateur du *Rock'n'Lille*
 
 ## Centres d'intérêt
 
@@ -111,13 +153,15 @@ Guitare et piano en autodidacte.
 ### Danse
 Professeur de danse rock dans une association étudiante
 
+<div class= "screen" markdown="1">
+
 ---
 
 <button id="bt-print" onclick="window.print();">Print !</button>
 
-[Mail](mailto:crepinge.thomas@gmail.com)
-
 *Dernière mise-à-jour: 14 Novembre 2019*
+
+</div>
 
 
 
