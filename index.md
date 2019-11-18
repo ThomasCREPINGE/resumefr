@@ -16,7 +16,7 @@ Né le 10 Juin 1992
 
 {:.description}
 *Fort de trois années d'expérience de développement d'API dans un environement Java, 
-je cherche à explorer de technologies nouvelles telles que la cloudification, les micro-services, la conteneurisation, etc ...*
+je cherche à explorer des technologies nouvelles telles que la cloudification, les micro-services, la conteneurisation, etc ...*
 
 ## Personnalité
 
@@ -98,9 +98,11 @@ Postgresql : 70%
 
 <div class= "screen" markdown="1">
 
-Anglais
+Anglais 
 
 <progress max="100" value="80"></progress>
+
+*First Certificate Grade C*
 
 Japonais
 
@@ -110,7 +112,7 @@ Japonais
 
 <div class= "print" markdown="1">
 
-Anglais : 80% / Japonais : 20%
+Anglais : 80%(FCE) / Japonais : 20%
 
 </div>
 
@@ -120,12 +122,12 @@ Anglais : 80% / Japonais : 20%
 **Econocom, Lille, Decathlon** - *Développeur*
 
 Dans le cadre d'une refonte du e-commerce et d'un objectif de dématérialisation, Decathlon a fait évoluer sa solution de gestion des factures.
-Intégré à la business unit encaissement, j'ai pris en charge, en complète autonomie, les correctis et les évolutions de l'API dans un environement Java 8 et Spring MVC.
+Intégré à la business unit encaissement, j'ai pris en charge, en complète autonomie, les correctifs et les évolutions de l'API dans un environement Java 8 et Spring MVC.
 
 ### 2018-2019
 
 Suite aux réussites de l'application, une équipe s'est organisée autour de celle-ci, dans laquelle j'ai pris le rôle de référent technique.
-Au delà du developpement orinté Back End, j'avais pour objectifs l'amélioration continue, l'architecture applicative, l'automatisation des process et l'analyse de dernier niveau des incidents.
+Au delà du developpement orienté Back End, j'avais pour objectifs l'amélioration continue, l'architecture applicative, l'automatisation des process et l'analyse de dernier niveau des incidents.
 
 ### 2016
 **Sopra Steria, Bruxelles, European Institutions** - *Ingénieur sécurité*
