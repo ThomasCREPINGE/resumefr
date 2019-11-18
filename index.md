@@ -10,12 +10,12 @@ crepinge.thomas@gmail.com
 
 (+33) 06 01 06 58 54
 
-June 10th, 1992
+Né le 10 Juin 1992
 
 ---
 
 *Fort de trois années d'expérience dans le développement d'API dans un environement Java, 
-je cherche à approfondir le domaine au travers de technologies nouvelles : cloudification, micro-services, conteneurisation, etc ...*
+je cherche à explorer de technologies nouvelles telles que la cloudification, les micro-services, la conteneurisation, etc ...*
 
 ## Personnalité
 
@@ -30,7 +30,7 @@ Observateur
 
 <progress max="100" value="69"></progress>
 
-Penséé
+Rationnel
 
 <progress max="100" value="61"></progress>
 
@@ -47,13 +47,13 @@ Java/JEE, Spring, Hibernate, JPA
 
 <progress max="100" value="90"></progress>
 
-REST API
+Testing : JUnit, Qhickcheck, Cucumber
 
 <progress max="100" value="90"></progress>
 
-Testing : JUnit, Qhickcheck, Cucumber
+REST API
 
-<progress max="100" value="75"></progress>
+<progress max="100" value="80"></progress>
 
 Postgresql
 
@@ -81,13 +81,13 @@ Japonais
 
 Dans le cadre d'une refonte du e-commerce et d'un objectif de dématérialisation, Decathlon a fait évoluer sa solution de gestion des factures.
 
-Intégré à la business unit encaissement, j'ai pris en charge, en complète autonomie, le run de l'application dans un environement d'API REST en Java 8 et Spring MVC.
+Intégré à la business unit encaissement, j'ai pris en charge, en complète autonomie, les correctis et les évolutions de l'API dans un environement Java 8 et Spring MVC.
 
 ### 2018-2019
 
 Suite aux réussites de l'application, une équipe s'est organisée autour de celle-ci, dans laquelle j'ai pris le rôle de référent technique.
 
-Au delà du developpement, j'avais pour objectifs l'amélioration continue, l'architecture applicative, l'automatisation des process et l'analyse de dernier niveau des incidents.
+Au delà du developpement orinté Back End, j'avais pour objectifs l'amélioration continue, l'architecture applicative, l'automatisation des process et l'analyse de dernier niveau des incidents.
 
 ### 2016
 **Sopra Steria, Bruxelles, European Institutions** - *Ingénieur sécurité*
