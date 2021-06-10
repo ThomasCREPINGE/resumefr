@@ -4,45 +4,40 @@ title: Thomas CREPINGE
 ---
 # *Thomas CREPINGE*
 
-5, rue Catel Beghin, 59000 Lille, France
+**Software & Data Engineer**
 
 [crepinge.thomas@gmail.com](mailto:crepinge.thomas@gmail.com)
 
 (+33) 06 01 06 58 54
 
-Né le 10 Juin 1992
+Lille, France
 
 ---
 
 {:.description}
-*Fort de trois années d'expérience de développement d'API dans un environement Java, 
-je cherche à explorer des technologies nouvelles telles que la cloudification, les micro-services, la conteneurisation, etc ...*
+*Driven to build strong artificial intelligence in order to solve global problems, I have five years of experience in development.*
 
-## Personnalité
+*I have successfully launched REST-API for e-commerce and standalone applications for critical industries. 
 
-### Test MBTI 
+*I now intend to take part in Data Sciences missions in an environment in need of innovative and high-performance learning models as an engineer familiar with business intelligence and development.*
+
+*I enjoy asking questions and finding answers as I have an interest in neurology sciences and human psychology.*
+
+## Personality
+
+### MBTI
 
 <div class= "screen" markdown="1">
 
 [**Virtuose ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
 
-Introverti 
+Introverted ... <progress max="100" value="83"></progress>
 
-<progress max="100" value="83"></progress>
+Observant ..... <progress max="100" value="69"></progress>
 
-Observateur
+Thinking ...... <progress max="100" value="61"></progress>
 
-<progress max="100" value="69"></progress>
-
-Rationnel
-
-<progress max="100" value="61"></progress>
-
-<!-- Prospection : <progress max="100" value="58"></progress> -->
-
-Assuré
-
-<progress max="100" value="96"></progress>
+Prospecting ... <progress max="100" value="58"></progress>
 
 </div>
 
@@ -50,106 +45,122 @@ Assuré
 
 [**Virtuose ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
 
-Introverti : 83% / Observateur : 69% / Rationnel : 61% / Assuré : 69%
+Introverted : 83% / Observant : 69% / Thinking : 61% / Prospecting : 96%
 
 </div>
 
-## Compétences
+## Skills
 
-### Technique
+### Algorithm 
+
+Java 1.8 ; Python 3
+
+### Web 
+
+Spring Framework (MVC, Data) ; Django
+
+### Machine Learning 
+
+Pandas ; Numpy ; SKLearn ; Matplotlib ; Scipy
+
+### Database
+
+SQL, Postgresql
+
+<div class= "print" markdown="1">
+
+Java 1.8 ; Python 3
+
+Spring Framework (MVC, Data) ; Django
+
+Pandas ; Numpy ; SKLearn ; Matplotlib ; Scipy
+
+SQL, Postgresql
+
+</div>
+
+### Tools
+
+Git ; Maven ; Sonar ; Jenkins
+
+### Languages
 
 <div class= "screen" markdown="1">
 
-Java 8, JUnit 4
+English : *Good oral and excellent written skills* 
 
-<progress max="100" value="90"></progress>
-
-Spring Data, Hibernate, JPA
-
-<progress max="100" value="80"></progress>
-
-Spring Web MVC, REST API
-
-<progress max="100" value="80"></progress>
-
-Postgresql
-
-<progress max="100" value="70"></progress>
+Korean & Japanese : *Basics*
 
 </div>
 
 <div class= "print" markdown="1">
 
-Java 8, JUnit 4 : 90%
-
-Spring MVC, Hibernate, JPA : 80%
-
-Spring Web, REST API : 80%
-
-Postgresql : 70%
-
-</div>
-
-*Outils : Git, Maven, Sonar, Jenkins, Postman*
-
-*Système : Windows, Linux CentOS*
-
-### Langues
-
-<div class= "screen" markdown="1">
-
-Anglais 
-
-<progress max="100" value="80"></progress>
-
-*First Certificate Grade C*
-
-Japonais
-
-<progress max="100" value="20"></progress>
-
-</div>
-
-<div class= "print" markdown="1">
-
-Anglais : 80%(FCE) / Japonais : 20%
+English : *Good oral and excellent written skills*
 
 </div>
 
 ## Expériences
 
-### 2016-2017
-**Econocom, Lille, Decathlon** - *Développeur*
+### 2020-2021
+**Kept in secret** - *Software Engineer*
 
-Dans le cadre d'une refonte du e-commerce et d'un objectif de dématérialisation, Decathlon a fait évoluer sa solution de gestion des factures.
-Intégré à la business unit encaissement, j'ai pris en charge, en complète autonomie, les correctifs et les évolutions de l'API dans un environement Java 8 et Spring MVC.
+In a context of a confidential project in a very sensitive field of work, I brought some improvements to an existent web platform destined for the monitoring of network equipments in order to fit the client's needs.
 
-### 2018-2019
+As Groovy was mainly used as programming language, my knowledge of Java was useful but I also had to learn some more about others like Python.
+I finally was responsible for the migration of some Python scripts from version 2 to version 3, what made me want to go further and explore all the possibilities it allows.
 
-Suite aux réussites de l'application, une équipe s'est organisée autour de celle-ci, dans laquelle j'ai pris le rôle de référent technique.
-Au delà du developpement orienté Back End, j'avais pour objectifs l'amélioration continue, l'architecture applicative, l'automatisation des process et l'analyse de dernier niveau des incidents.
+
+### 2016-2020
+**Econocom, Lille, Decathlon** - *Software Engineer*
+
+Decathlon is a French retailer dedicated to conceive sporting equipment and provide it all over the world.
+As a result of a new e-commerce website and fully de-materialized invoices, they built a scalable and effective REST API that grants omni-device usage.
+
+I was first in charge of fixes and upgrades on the back-end, a three-tiers architecture Spring application.
+Later on with the success of the subsequent deployments in a couple of worldwide countries, I took a step forward as Lead Developer of a five-members team.
+Thus, I set up continous improvment, continuous integration and code review thanks to Sonar and Jenkins suite.
 
 ### 2016
-**Sopra Steria, Bruxelles, European Institutions** - *Ingénieur sécurité*
+**Sopra Steria, Brussels, European Institutions** - *Software Engineer*
 
-Dans le cadre d'une solution d'identification des demandeurs d’asile suite à la crise migratoire que connait l'UE, j'ai réalisé une interface dans un environnement Java Primefaces qui répond pleinement au besoin de fonctionnalité et d'ergonomie.
+The EU Institutions Business Unit of Sopra Steria was asked for making a web application that have to retrieve the identity of the asylum askeers, based on fingerprints and passport as inputs.
+In tandem with a team of international remote developers specialized in European data systems, I designed an IHM that responds to UX needs in a Java environment using ZK Framework.
 
 ## Formation
 
 ### 2010-2016
-**Institut Supérieur d'Electronique et du Numérique, Lille** - *Diplôme d'ingénieur*
+**Institut Supérieur d'Electronique et du Numérique, Lille** - *Engineer's Degree*
 
-Gestion de Projet et Ingénierie d’Affaires en Technologie de l’Informations
+Project Management and Business Development in Information Technologies
 
-Associatif : Président du *Club ROCK ISEN*, Organisateur du *Rock'n'Lille*
+Association : Head of Rock'n'Roll Club, Organizer of a 10K-visitors Rock'n'Roll concert
 
-## Centres d'intérêt
+### 2021
+**Self-learning on Codecademy**
 
-### Musique
-Guitare et piano en autodidacte, compositeur amateur
+Statistics with Python
 
-### Danse
-Professeur de danse rock dans une association étudiante
+Basics in Machine Learning
+
+Introduction with Django
+
+Deep-learning with Tensorflows
+
+## Hobbies
+
+### Computer science
+
+Algorithm challenge
+
+Codingame
+
+[**Leaderboard HackInScience**](https://www.hackinscience.org/leaderboard/){:target="_blank"}
+
+### Music
+Guitar player in a band ; pianist beginner
+
+### Reading
+Biology, Psychology, Philosophy, Politics
 
 <div class= "screen" markdown="1">
 
@@ -157,9 +168,6 @@ Professeur de danse rock dans une association étudiante
 
 <button id="bt-print" onclick="window.print();">Print !</button>
 
-*Dernière mise-à-jour: 14 Novembre 2019*
+*Last update: June 2021, 8th*
 
 </div>
-
-
-
