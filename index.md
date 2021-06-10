@@ -15,13 +15,10 @@ Lille, France
 ---
 
 {:.description}
-*Driven to build strong artificial intelligence in order to solve global problems, I have five years of experience in development.*
-
-*I have successfully launched REST-API for e-commerce and standalone applications for critical industries.*
-
-*I now intend to take part in Data Sciences missions in an environment in need of innovative and high-performance learning models as an engineer familiar with business intelligence and development.*
-
-*I enjoy asking questions and finding answers as I have an interest in neurology sciences and human psychology.*
+*Driven to build strong artificial intelligence in order to solve global problems, I have five years of experience in development.
+I have successfully launched REST-API for e-commerce and standalone applications for critical industries. 
+I now intend to take part in Data Sciences missions in an environment in need of innovative and high-performance learning models as an engineer familiar with business intelligence and development.
+I enjoy asking questions and finding answers as I have an interest in neurology sciences and human psychology.*
 
 ## Personality
 
@@ -31,13 +28,13 @@ Lille, France
 
 [**Virtuose ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
 
-Introverted ... <progress max="100" value="83"></progress>
+Introverted <progress max="100" value="83"></progress>
 
-Observant ..... <progress max="100" value="69"></progress>
+Observant <progress max="100" value="69"></progress>
 
-Thinking ...... <progress max="100" value="61"></progress>
+Thinking <progress max="100" value="61"></progress>
 
-Prospecting ... <progress max="100" value="58"></progress>
+Prospecting <progress max="100" value="58"></progress>
 
 </div>
 
@@ -138,23 +135,24 @@ Association : Head of Rock'n'Roll Club, Organizer of a 10K-visitors Rock'n'Roll 
 ### 2021
 **Self-learning on Codecademy**
 
-Statistics with Python
+#### Statistics with Python
 
-Basics in Machine Learning
+#### Basics in Machine Learning
 
-Introduction with Django
+#### Introduction with Django
 
-Deep-learning with Tensorflows
+#### Deep-learning with Tensorflows
 
 ## Hobbies
 
 ### Computer science
 
-Algorithm challenge
+#### Algorithm challenge
 
 Codingame
 
-[**Leaderboard HackInScience**](https://www.hackinscience.org/leaderboard/){:target="_blank"}
+[Leaderboard HackInScience](https://www.hackinscience.org/leaderboard/){:target="_blank"}
+[ -> My solutions](https://github.com/ThomasCREPINGE/hackinsciencesprojects){:target="_blank"}
 
 ### Music
 Guitar player in a band ; pianist beginner
