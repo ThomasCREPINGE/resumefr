@@ -135,23 +135,23 @@ Association : Head of Rock'n'Roll Club, Organizer of a 10K-visitors Rock'n'Roll 
 ### 2021
 **Self-learning on Codecademy**
 
-#### Statistics with Python
+- Statistics with Python
 
-#### Basics in Machine Learning
+- Basics in Machine Learning
 
-#### Introduction with Django
+- Introduction with Django
 
-#### Deep-learning with Tensorflows
+- Deep-learning with Tensorflows
 
 ## Hobbies
 
 ### Computer science
 
-#### Algorithm challenge
+**Algorithm challenge**
 
-Codingame
+- Codingame
 
-[Leaderboard HackInScience](https://www.hackinscience.org/leaderboard/){:target="_blank"}
+- [Leaderboard HackInScience](https://www.hackinscience.org/leaderboard/){:target="_blank"}
 [ -> My solutions](https://github.com/ThomasCREPINGE/hackinsciencesprojects){:target="_blank"}
 
 ### Music
