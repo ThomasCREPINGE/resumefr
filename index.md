@@ -152,21 +152,19 @@ Association : Head of Rock'n'Roll Club, Organizer of a 10K-visitors Rock'n'Roll 
 
 ## Hobbies
 
-### Computer science
+### Programming challenges
 
-**Algorithm challenge**
+ > [**Codingame**](https://www.codingame.com/start){:target="_blank"}
 
--[Codingame](https://www.codingame.com/start){:target="_blank"}
-
--[Leaderboard HackInScience](https://www.hackinscience.org/leaderboard/){:target="_blank"}
-  ->  
-  [My solutions](https://github.com/ThomasCREPINGE/hackinsciencesprojects){:target="_blank"}
-
-### Music
-Guitar player in a band
+ > **HackInScience**
+	>  [Leaderboard](https://www.hackinscience.org/leaderboard/){:target="_blank"}
+	>  [My solutions](https://github.com/ThomasCREPINGE/hackinsciencesprojects){:target="_blank"}
 
 ### Reading
 Biology, Psychology, Philosophy, Politics
+
+### Music
+Guitar player in a band
 
 <div class="screen" markdown="1">
 
