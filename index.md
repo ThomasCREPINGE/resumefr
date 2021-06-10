@@ -12,7 +12,7 @@ title: Thomas CREPINGE
 
 Lille, France
 
-[GitHub](https://github.com/ThomasCREPINGE){:target="_blank"}
+[*GitHub*](https://github.com/ThomasCREPINGE){:target="_blank"}
 
 ---
 
@@ -26,10 +26,13 @@ I enjoy asking questions and finding answers as I have an interest in neurology 
 
 ### MBTI
 
-<div class= "screen" markdown="1">
+<div class="screen" markdown="1">
 
 [**Virtuose ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
 
+Introverted : 83% / Observant : 69% / Thinking : 61% / Prospecting : 96%
+
+<!--
 Introverted <progress max="100" value="83"></progress>
 
 Observant <progress max="100" value="69"></progress>
@@ -37,10 +40,11 @@ Observant <progress max="100" value="69"></progress>
 Thinking <progress max="100" value="61"></progress>
 
 Prospecting <progress max="100" value="58"></progress>
+-->
 
 </div>
 
-<div class= "print" markdown="1">
+<div class="print" markdown="1">
 
 [**Virtuose ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
 
@@ -52,21 +56,21 @@ Introverted : 83% / Observant : 69% / Thinking : 61% / Prospecting : 96%
 
 ### Algorithm 
 
-Java 1.8 ; Python 3
+Java 1.8 / Python 3
 
 ### Web 
 
-Spring Framework (MVC, Data) ; Django
+Spring Framework (MVC, Data) / Django
 
 ### Machine Learning 
 
-Pandas ; Numpy ; SKLearn ; Matplotlib ; Scipy
+Pandas / Numpy / SKLearn / Matplotlib / Scipy
 
 ### Database
 
-SQL, Postgresql
+SQL / Postgresql
 
-<div class= "print" markdown="1">
+<div class="print" markdown="1">
 
 Java 1.8 ; Python 3
 
@@ -80,11 +84,11 @@ SQL, Postgresql
 
 ### Tools
 
-Git ; Maven ; Sonar ; Jenkins
+Git / Maven / Sonar / Jenkins
 
 ### Languages
 
-<div class= "screen" markdown="1">
+<div class="screen" markdown="1">
 
 English : *Good oral and excellent written skills* 
 
@@ -92,7 +96,7 @@ Korean & Japanese : *Basics*
 
 </div>
 
-<div class= "print" markdown="1">
+<div class="print" markdown="1">
 
 English : *Good oral and excellent written skills*
 
@@ -106,7 +110,7 @@ English : *Good oral and excellent written skills*
 In a context of a confidential project in a very sensitive field of work, I brought some improvements to an existent web platform destined for the monitoring of network equipments in order to fit the client's needs.
 
 As Groovy was mainly used as programming language, my knowledge of Java was useful but I also had to learn some more about others like Python.
-I finally was responsible for the migration of some Python scripts from version 2 to version 3, what made me want to go further and explore all the possibilities it allows.
+I finally was responsible for the migration of some Python scripts from version 2 to version 3, what made me want to explore every possibility it allows.
 
 
 ### 2016-2020
@@ -118,6 +122,7 @@ As a result of a new e-commerce website and fully de-materialized invoices, they
 I was first in charge of fixes and upgrades on the back-end, a three-tiers architecture Spring application.
 Later on with the success of the subsequent deployments in a couple of worldwide countries, I took a step forward as Lead Developer of a five-members team.
 Thus, I set up continous improvment, continuous integration and code review thanks to Sonar and Jenkins suite.
+
 
 ### 2016
 **Sopra Steria, Brussels, European Institutions** - *Software Engineer*
@@ -154,20 +159,21 @@ Association : Head of Rock'n'Roll Club, Organizer of a 10K-visitors Rock'n'Roll 
 -[Codingame](https://www.codingame.com/start){:target="_blank"}
 
 -[Leaderboard HackInScience](https://www.hackinscience.org/leaderboard/){:target="_blank"}
-[ -> My solutions](https://github.com/ThomasCREPINGE/hackinsciencesprojects){:target="_blank"}
+  ->  
+  [My solutions](https://github.com/ThomasCREPINGE/hackinsciencesprojects){:target="_blank"}
 
 ### Music
-Guitar player in a band ; pianist beginner
+Guitar player in a band
 
 ### Reading
 Biology, Psychology, Philosophy, Politics
 
-<div class= "screen" markdown="1">
+<div class="screen" markdown="1">
 
 ---
 
 <button id="bt-print" onclick="window.print();">Print !</button>
 
-*Last update: June 2021, 8th*
+*Last update: June 2021, 10th*
 
 </div>
