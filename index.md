@@ -17,7 +17,7 @@ Lille, France
 {:.description}
 *Driven to build strong artificial intelligence in order to solve global problems, I have five years of experience in development.*
 
-*I have successfully launched REST-API for e-commerce and standalone applications for critical industries. 
+*I have successfully launched REST-API for e-commerce and standalone applications for critical industries.*
 
 *I now intend to take part in Data Sciences missions in an environment in need of innovative and high-performance learning models as an engineer familiar with business intelligence and development.*
 
