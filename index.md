@@ -44,6 +44,7 @@ Prospecting <progress max="100" value="58"></progress>
 
 </div>
 
+<!--
 <div class="print" markdown="1">
 
 [**Virtuose ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
@@ -51,6 +52,7 @@ Prospecting <progress max="100" value="58"></progress>
 Introverted : 83% / Observant : 69% / Thinking : 61% / Prospecting : 96%
 
 </div>
+-->
 
 ## Skills
 
@@ -70,6 +72,7 @@ Pandas / Numpy / SKLearn / Matplotlib / Scipy
 
 SQL / Postgresql
 
+<!--
 <div class="print" markdown="1">
 
 Java 1.8 ; Python 3
@@ -81,6 +84,7 @@ Pandas ; Numpy ; SKLearn ; Matplotlib ; Scipy
 SQL, Postgresql
 
 </div>
+-->
 
 ### Tools
 
@@ -90,17 +94,18 @@ Git / Maven / Sonar / Jenkins
 
 <div class="screen" markdown="1">
 
-English : *Good oral and excellent written skills* 
-
-Korean & Japanese : *Basics*
++ English : *Good oral and excellent written skills* 
++ Korean & Japanese : *Basics*
 
 </div>
 
+<!--
 <div class="print" markdown="1">
 
 English : *Good oral and excellent written skills*
 
 </div>
+-->
 
 ## Expériences
 
@@ -142,23 +147,18 @@ Association : Head of Rock'n'Roll Club, Organizer of a 10K-visitors Rock'n'Roll 
 ### 2021
 **Self-learning on Codecademy**
 
--Statistics with Python
-
--Basics in Machine Learning
-
--Introduction with Django
-
--Deep-learning with Tensorflows
+![image](/assets/images/CodecademyCertificate_StatisticsPython_ThomasCrepinge.jpg)
+![image](/assets/images/CodecademyCertificate_MachineLearning_ThomasCrepinge.jpg)
 
 ## Hobbies
 
 ### Programming challenges
 
- > [**Codingame**](https://www.codingame.com/start){:target="_blank"}
-
- > **HackInScience**
-	>  [Leaderboard](https://www.hackinscience.org/leaderboard/){:target="_blank"}
-	>  [My solutions](https://github.com/ThomasCREPINGE/hackinsciencesprojects){:target="_blank"}
++ **Codingame**
+    + [My profile](https://www.codingame.com/profile/2ecc5b080c0c41edc84a425e0ca601457107752){:target="_blank"}
++ **HackInScience**
+    + [Leaderboard](https://www.hackinscience.org/leaderboard/){:target="_blank"}
+    + [My solutions](https://github.com/ThomasCREPINGE/hackinsciencesprojects){:target="_blank"}
 
 ### Reading
 Biology, Psychology, Philosophy, Politics
@@ -170,8 +170,10 @@ Guitar player in a band
 
 ---
 
+<!--
 <button id="bt-print" onclick="window.print();">Print !</button>
+-->
 
-*Last update: June 2021, 10th*
+*Last update: June 2021, 11th*
 
 </div>
