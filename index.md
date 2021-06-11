@@ -28,7 +28,7 @@ I enjoy asking questions and finding answers as I have an interest in neurology 
 
 <div class="screen" markdown="1">
 
-[**Virtuose ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
+[**Virtuoso ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
 
 Introverted : 83% / Observant : 69% / Thinking : 61% / Prospecting : 96%
 
@@ -58,19 +58,26 @@ Introverted : 83% / Observant : 69% / Thinking : 61% / Prospecting : 96%
 
 ### Algorithm 
 
-Java 1.8 / Python 3
+Java 1.8, 
+Python 3
 
 ### Web 
 
-Spring Framework (MVC, Data) / Django
+Spring Framework (MVC, Data), 
+Django
 
 ### Machine Learning 
 
-Pandas / Numpy / SKLearn / Matplotlib / Scipy
+Pandas, 
+Numpy, 
+SKLearn, 
+Matplotlib, 
+Scipy
 
 ### Database
 
-SQL / Postgresql
+SQL, 
+Postgresql
 
 <!--
 <div class="print" markdown="1">
@@ -88,7 +95,10 @@ SQL, Postgresql
 
 ### Tools
 
-Git / Maven / Sonar / Jenkins
+Git, 
+Maven, 
+Sonar, 
+Jenkins
 
 ### Languages
 
@@ -107,7 +117,7 @@ English : *Good oral and excellent written skills*
 </div>
 -->
 
-## Expériences
+## Experiences
 
 ### 2020-2021
 **Kept in secret** - *Software Engineer*
@@ -135,7 +145,7 @@ Thus, I set up continous improvment, continuous integration and code review than
 The EU Institutions Business Unit of Sopra Steria was asked for making a web application that have to retrieve the identity of the asylum askeers, based on fingerprints and passport as inputs.
 In tandem with a team of international remote developers specialized in European data systems, I designed an IHM that responds to UX needs in a Java environment using ZK Framework.
 
-## Formation
+## Training
 
 ### 2010-2016
 **Institut Supérieur d'Electronique et du Numérique, Lille** - *Engineer's Degree*
@@ -145,11 +155,28 @@ Project Management and Business Development in Information Technologies
 Association : Head of Rock'n'Roll Club, Organizer of a 10K-visitors Rock'n'Roll concert
 
 ### 2021
-**Self-learning on Codecademy**
+<div class="wrapper1" markdown="1">
+
+<div class="wrapper2" markdown="1">
 
 ![image](/assets/images/CodecademyCertificate_StatisticsPython_ThomasCrepinge.jpg)
-![image](/assets/images/CodecademyCertificate_MachineLearning_ThomasCrepinge.jpg)
 
+</div>
+
+<div class="wrapper3" markdown="1">
+
+**Self-learning on Codecademy**
+
++ Python
++ Statistics
++ Machine Learning
++ Deep Learning
++ Django Frameworks
+
+</div>
+
+</div>
+    
 ## Hobbies
 
 ### Programming challenges
