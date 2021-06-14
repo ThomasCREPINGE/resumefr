@@ -157,27 +157,27 @@ Association : Head of Rock'n'Roll Club, Organizer of a 10K-visitors Rock'n'Roll 
 ### 2021
 **Self-learning on Codecademy**
 
-+ Python
-+ Statistics
-+ Machine Learning
-+ Deep Learning
-+ Django Framework
+Python, 
+Statistics, 
+Machine Learning, 
+Deep Learning, 
+Django Framework
     
 ## Hobbies
 
 ### Programming challenges
 **Codingame**
-    + [My profile](https://www.codingame.com/profile/2ecc5b080c0c41edc84a425e0ca601457107752){:target="_blank"}
++ [My profile](https://www.codingame.com/profile/2ecc5b080c0c41edc84a425e0ca601457107752){:target="_blank"}
 
 **HackInScience**
-    + [Leaderboard](https://www.hackinscience.org/leaderboard/){:target="_blank"}
-    + [My solutions](https://github.com/ThomasCREPINGE/hackinsciencesprojects){:target="_blank"}
++ [Leaderboard](https://www.hackinscience.org/leaderboard/){:target="_blank"}
++ [My solutions](https://github.com/ThomasCREPINGE/hackinsciencesprojects){:target="_blank"}
 
 ### Reading
 Biology, Psychology, Philosophy, Politics
 
 ### Music
-Guitar player in a band
+Guitar player in a band, improv enthusiast
 
 <div class="screen" markdown="1">
 
