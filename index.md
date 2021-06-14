@@ -177,7 +177,7 @@ Django Framework
 Biology, Psychology, Philosophy, Politics
 
 ### Music
-Guitar player in a band, improv enthusiast
+Guitar player in a band, blues & rock jammer
 
 <div class="screen" markdown="1">
 
