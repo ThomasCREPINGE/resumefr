@@ -157,7 +157,7 @@ Association : Head of Rock'n'Roll Club, Organizer of a 10K-visitors Rock'n'Roll 
 ### 2021
 **Self-learning on Codecademy**
 
-Python, 
+Python: 
 Statistics, 
 Machine Learning, 
 Deep Learning, 
