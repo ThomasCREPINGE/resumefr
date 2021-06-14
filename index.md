@@ -166,10 +166,10 @@ Association : Head of Rock'n'Roll Club, Organizer of a 10K-visitors Rock'n'Roll 
 ## Hobbies
 
 ### Programming challenges
-
-+ **Codingame**
+**Codingame**
     + [My profile](https://www.codingame.com/profile/2ecc5b080c0c41edc84a425e0ca601457107752){:target="_blank"}
-+ **HackInScience**
+
+**HackInScience**
     + [Leaderboard](https://www.hackinscience.org/leaderboard/){:target="_blank"}
     + [My solutions](https://github.com/ThomasCREPINGE/hackinsciencesprojects){:target="_blank"}
 
