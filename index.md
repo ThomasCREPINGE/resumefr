@@ -155,27 +155,13 @@ Project Management and Business Development in Information Technologies
 Association : Head of Rock'n'Roll Club, Organizer of a 10K-visitors Rock'n'Roll concert
 
 ### 2021
-<div class="wrapper1" markdown="1">
-
-<div class="wrapper2" markdown="1">
-
-![image](/assets/images/CodecademyCertificate_StatisticsPython_ThomasCrepinge.jpg)
-
-</div>
-
-<div class="wrapper3" markdown="1">
-
 **Self-learning on Codecademy**
 
 + Python
 + Statistics
 + Machine Learning
 + Deep Learning
-+ Django Frameworks
-
-</div>
-
-</div>
++ Django Framework
     
 ## Hobbies
 
