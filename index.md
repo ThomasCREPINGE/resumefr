@@ -12,8 +12,13 @@ title: Thomas CREPINGE
 
 Lille, France
 
+<div class="screen" markdown="1">
 [*GitHub*](https://github.com/ThomasCREPINGE){:target="_blank"}
+</div>
 
+<div class="print" markdown="1">
+CV en ligne : *https://thomascrepinge.github.io/resumefr/*
+</div>
 ---
 
 <!--
@@ -71,38 +76,29 @@ Maven,
 Sonar, 
 Jenkins
 
-</div>
-
-<div class="print" markdown="1">
-
-Python 3.6+ ; Java 1.8
-
-Django 2 & 3 ; Spring Framework (MVC, Data)
-
-Pandas ; Numpy ; SKLearn ; Matplotlib ; Scipy
-
-SQL ; Postgresql
-
-Git ; Maven ; Sonar ; Jenkins
-
-</div>
-
 ### Langues
-
-<div class="screen" markdown="1">
 
 + Anglais : *Bon oral et écrit courant* 
 + Korean & Japanese : *Notions*
 
 </div>
 
-<!--
 <div class="print" markdown="1">
 
-Anglais : *Bon oral et écrit courant*
+Algorithmique :    *Python 3.6+ ; Java 1.8*
+
+Web :              *Django 2 & 3 ; Spring Framework (MVC, Data)*
+
+Database :         *SQL ; Postgresql*
+
+Machine Learning : *Pandas ; Numpy ; SKLearn ; Matplotlib ; Scipy*
+
+Outils :           *Git ; Maven ; Sonar ; Jenkins*
+
+Langues :          *Anglais - Bon oral et écrit courant*
 
 </div>
--->
+
 
 ## Expériences
 
@@ -140,9 +136,10 @@ En tandem avec une équipe de développeurs internationnaux spécialisés dans l
 Gestion de Projet and Ingénierie d'Affaires en Technologies de l'Information
 
 Association : Président du club de danse Rock ISEN, Organisation du Rock'n'Lille 2015 (événement de 10.000 visiteurs)
-
     
 ## Loisirs
+
+<div class="screen" markdown="1">
 
 ### Challenges de programmation
 **Codingame**
@@ -157,6 +154,19 @@ Natation ; Badminton ; Danse
 
 ### Musique
 Guitariste en groupe ; Imrovisation et Composition ; Chant
+
+</div>
+
+<div class="print" markdown="1">
+
+Challenges de programmation : *Codingame ; HackInScience*
+
+Sport :                       *Natation ; Badminton ; Danse*
+
+Musique :                     *Guitariste en groupe ; Imrovisation et Composition ; Chant*
+
+</div>
+
 
 <div class="screen" markdown="1">
 
