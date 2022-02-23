@@ -4,7 +4,7 @@ title: Thomas CREPINGE
 ---
 # *Thomas CREPINGE*
 
-**Ingénieur Etude é Développement**
+**Ingénieur Etude et Développement**
 
 [crepinge.thomas@gmail.com](mailto:crepinge.thomas@gmail.com)
 
@@ -28,17 +28,7 @@ I enjoy asking questions and finding answers as I have an interest in neurology 
 
 <div class="screen" markdown="1">
 
-[**Virtuoso ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
-
-<!--
-Introverted <progress max="100" value="83"></progress>
-
-Observant <progress max="100" value="69"></progress>
-
-Thinking <progress max="100" value="61"></progress>
-
-Prospecting <progress max="100" value="58"></progress>
--->
+[**Virtuose ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
 
 </div>
 
@@ -51,6 +41,8 @@ Prospecting <progress max="100" value="58"></progress>
 -->
 
 ## Compétences
+
+<div class="screen" markdown="1">
 
 ### Algorithmique
 
@@ -75,6 +67,16 @@ Scipy
 SQL, 
 Postgresql
 
+
+### Outils
+
+Git, 
+Maven, 
+Sonar, 
+Jenkins
+
+</div>
+
 <!--
 <div class="print" markdown="1">
 
@@ -86,29 +88,24 @@ Pandas ; Numpy ; SKLearn ; Matplotlib ; Scipy
 
 SQL ; Postgresql
 
+Git ; Maven ; Sonar ; Jenkins
+
 </div>
 -->
-
-### Outils
-
-Git, 
-Maven, 
-Sonar, 
-Jenkins
 
 ### Langues
 
 <div class="screen" markdown="1">
 
 + Anglais : *Bon oral et écrit courant* 
-+ Coréen & Japonais : *Notions*
++ Korean & Japanese : *Notions*
 
 </div>
 
 <!--
 <div class="print" markdown="1">
 
-English : *Good oral and excellent written skills*
+Anglais : *Bon oral et écrit courant*
 
 </div>
 -->
@@ -171,10 +168,8 @@ Guitariste en groupe ; Imrovisation et Composition ; Chant
 
 ---
 
-<!--
 <button id="bt-print" onclick="window.print();">Print !</button>
--->
 
-*Dernière modification : 23 Février 2022*
+*Last update: 23 Février 2022*
 
 </div>
