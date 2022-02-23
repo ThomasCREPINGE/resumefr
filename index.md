@@ -4,7 +4,7 @@ title: Thomas CREPINGE
 ---
 # *Thomas CREPINGE*
 
-**Software & Data Engineer**
+**Ingénieur Etude é Développement**
 
 [crepinge.thomas@gmail.com](mailto:crepinge.thomas@gmail.com)
 
@@ -22,15 +22,13 @@ I have successfully launched REST-API for e-commerce and standalone applications
 I now intend to take part in Data Sciences missions in an environment in need of innovative and high-performance learning models as an engineer familiar with business intelligence and development.
 I enjoy asking questions and finding answers as I have an interest in neurology sciences and human psychology.*
 
-## Personality
+## Personnalité
 
 ### MBTI
 
 <div class="screen" markdown="1">
 
 [**Virtuoso ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
-
-Introverted : 83% / Observant : 69% / Thinking : 61% / Prospecting : 96%
 
 <!--
 Introverted <progress max="100" value="83"></progress>
@@ -49,22 +47,20 @@ Prospecting <progress max="100" value="58"></progress>
 
 [**Virtuose ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
 
-Introverted : 83% / Observant : 69% / Thinking : 61% / Prospecting : 96%
-
 </div>
 -->
 
-## Skills
+## Compétences
 
-### Algorithm 
+### Algorithmique
 
-Java 1.8, 
-Python 3
+Python 3.6+,
+Java 1.8
 
 ### Web 
 
-Spring Framework (MVC, Data), 
-Django
+Django 2 & 3,
+Spring Framework (MVC, Data)
 
 ### Machine Learning 
 
@@ -82,30 +78,30 @@ Postgresql
 <!--
 <div class="print" markdown="1">
 
-Java 1.8 ; Python 3
+Python 3.6+ ; Java 1.8
 
-Spring Framework (MVC, Data) ; Django
+Django 2 & 3 ; Spring Framework (MVC, Data)
 
 Pandas ; Numpy ; SKLearn ; Matplotlib ; Scipy
 
-SQL, Postgresql
+SQL ; Postgresql
 
 </div>
 -->
 
-### Tools
+### Outils
 
 Git, 
 Maven, 
 Sonar, 
 Jenkins
 
-### Languages
+### Langues
 
 <div class="screen" markdown="1">
 
-+ English : *Good oral and excellent written skills* 
-+ Korean & Japanese : *Basics*
++ Anglais : *Bon oral et écrit courant* 
++ Coréen & Japonais : *Notions*
 
 </div>
 
@@ -117,67 +113,59 @@ English : *Good oral and excellent written skills*
 </div>
 -->
 
-## Experiences
+## Expériences
 
-### 2020-2021
-**Kept in secret** - *Software Engineer*
+### 2020-2022
+**Confidentiel** - *Ingénieur Logiciel*
 
-In a context of a confidential project in a very sensitive field of work, I brought some improvements to an existent web platform destined for the monitoring of network equipments in order to fit the client's needs.
+Dans un contexte de projet confidentiel, j'ai apporté mon expérience à l'amélioration d'une plateforme web destiné à la supervision d'équipements réseau.
 
-As Groovy was mainly used as programming language, my knowledge of Java was useful but I also had to learn some more about others like Python.
-I finally was responsible for the migration of some Python scripts from version 2 to version 3, what made me want to explore every possibility it allows.
+Etant donné l'utilisation de Groovy comme language de programmation principal, mes connaissances de Java se sont avérées utiles mais j'ai également du en apprendre d'avantage sur Python.
+En conséquence, j'ai pu être attaché à la migration de scripts depuis la version 2 vers la version 3, puis enfin au développement de modules complets.
 
 
 ### 2016-2020
-**Econocom, Lille, Decathlon** - *Software Engineer*
+**Econocom, Lille, Decathlon** - *Ingénieur Logiciel ; Référent Technique*
 
-Decathlon is a French retailer dedicated to conceive sporting equipment and provide it all over the world.
-As a result of a new e-commerce website and fully de-materialized invoices, they built a scalable and effective REST API that grants omni-device usage.
+Decathlon est l'un des plus importants concepteurs et distributeurs d'équipements sportifs dans le monde.
+Dans le but de se doter d'un nouveau site e-commerce et de factures pleinement dématérialisées, une API REST efficace, évolutive et permettant une utilisation omni-devices a été développée.
 
-I was first in charge of fixes and upgrades on the back-end, a three-tiers architecture Spring application.
-Later on with the success of the subsequent deployments in a couple of worldwide countries, I took a step forward as Lead Developer of a five-members team.
-Thus, I set up continous improvment, continuous integration and code review thanks to Sonar and Jenkins suite.
+Premièrement, j'ai été responsable, en autonomie, des corrections du côté back-end, une application Spring MVC en achitecture 3-tiers.
+Plus tard, en conséquence des déploiements réussis dans une dizaine de pays à travers le monde, j'ai pu progressé en tant que référent technique dans une équipe de 5 personnes.
+A ce titre, j'ai mis en place de l'amélioration continue, de l'intégration continue et de la relecture de code grâce aux outils Sonar et Jenkins.
 
 
 ### 2016
-**Sopra Steria, Brussels, European Institutions** - *Software Engineer*
+**Sopra Steria, Brussels, Institutions européennes** - *Stagiaire - Ingénieur Logiciel*
 
-The EU Institutions Business Unit of Sopra Steria was asked for making a web application that have to retrieve the identity of the asylum askeers, based on fingerprints and passport as inputs.
-In tandem with a team of international remote developers specialized in European data systems, I designed an IHM that responds to UX needs in a Java environment using ZK Framework.
+La Business Unit 'EU Institutions' de Sopra Steria à Bruxelles a été chargée de produire une application web afin d'identifier les demandeurs d'asile aux frontières, en se servant de données biométriques et administratives (passeports, etc...).
+En tandem avec une équipe de développeurs internationnaux spécialisés dans les systèmes de données européens, j'ai conçu les interfaces qui répondaient aux besoins UX du produit dans un environnement Java utilisant le framework 'ZK Framework'.
 
-## Training
+## Formation
 
 ### 2010-2016
-**Institut Supérieur d'Electronique et du Numérique, Lille** - *Engineer's Degree*
+**Institut Supérieur d'Electronique et du Numérique, Lille** - *Diplôme d'Ingénieur*
 
-Project Management and Business Development in Information Technologies
+Gestion de Projet and Ingénierie d'Affaires en Technologies de l'Information
 
-Association : Head of Rock'n'Roll Club, Organizer of a 10K-visitors Rock'n'Roll concert
+Association : Président du club de danse Rock ISEN, Organisation du Rock'n'Lille 2015 (événement de 10.000 visiteurs)
 
-### 2021
-**Self-learning on Codecademy**
-
-Python: 
-Statistics, 
-Machine Learning, 
-Deep Learning, 
-Django Framework
     
-## Hobbies
+## Loisirs
 
-### Programming challenges
+### Challenges de programmation
 **Codingame**
-+ [My profile](https://www.codingame.com/profile/2ecc5b080c0c41edc84a425e0ca601457107752){:target="_blank"}
++ [Mon profil](https://www.codingame.com/profile/2ecc5b080c0c41edc84a425e0ca601457107752){:target="_blank"}
 
 **HackInScience**
-+ [Leaderboard](https://www.hackinscience.org/leaderboard/){:target="_blank"}
-+ [My solutions](https://github.com/ThomasCREPINGE/hackinsciencesprojects){:target="_blank"}
++ [Classement](https://www.hackinscience.org/leaderboard/){:target="_blank"}
++ [Mes solutions](https://github.com/ThomasCREPINGE/hackinsciencesprojects){:target="_blank"}
 
-### Reading
-Biology, Psychology, Philosophy, Politics
+### Sports
+Natation ; Badminton ; Danse
 
-### Music
-Guitar player in a band, blues & rock jammer
+### Musique
+Guitariste en groupe ; Imrovisation et Composition ; Chant
 
 <div class="screen" markdown="1">
 
@@ -187,6 +175,6 @@ Guitar player in a band, blues & rock jammer
 <button id="bt-print" onclick="window.print();">Print !</button>
 -->
 
-*Last update: June 2021, 11th*
+*Dernière modification : 23 Février 2022*
 
 </div>
