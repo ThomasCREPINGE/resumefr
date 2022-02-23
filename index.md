@@ -16,11 +16,10 @@ Lille, France
 
 ---
 
+<!--
 {:.description}
-*Driven to build strong artificial intelligence in order to solve global problems, I have five years of experience in development.
-I have successfully launched REST-API for e-commerce and standalone applications for critical industries. 
-I now intend to take part in Data Sciences missions in an environment in need of innovative and high-performance learning models as an engineer familiar with business intelligence and development.
-I enjoy asking questions and finding answers as I have an interest in neurology sciences and human psychology.*
+**
+-->
 
 ## Personnalité
 
@@ -32,13 +31,11 @@ I enjoy asking questions and finding answers as I have an interest in neurology 
 
 </div>
 
-<!--
 <div class="print" markdown="1">
 
 [**Virtuose ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
 
 </div>
--->
 
 ## Compétences
 
@@ -67,7 +64,6 @@ Scipy
 SQL, 
 Postgresql
 
-
 ### Outils
 
 Git, 
@@ -77,7 +73,6 @@ Jenkins
 
 </div>
 
-<!--
 <div class="print" markdown="1">
 
 Python 3.6+ ; Java 1.8
@@ -91,7 +86,6 @@ SQL ; Postgresql
 Git ; Maven ; Sonar ; Jenkins
 
 </div>
--->
 
 ### Langues
 
@@ -115,14 +109,14 @@ Anglais : *Bon oral et écrit courant*
 ### 2020-2022
 **Confidentiel** - *Ingénieur Logiciel*
 
-Dans un contexte de projet confidentiel, j'ai apporté mon expérience à l'amélioration d'une plateforme web destiné à la supervision d'équipements réseau.
+Dans un contexte de projet confidentiel, j'ai apporté mon expérience à l'amélioration d'une plateforme web destinée à la supervision d'équipements réseau.
 
 Etant donné l'utilisation de Groovy comme language de programmation principal, mes connaissances de Java se sont avérées utiles mais j'ai également du en apprendre d'avantage sur Python.
 En conséquence, j'ai pu être attaché à la migration de scripts depuis la version 2 vers la version 3, puis enfin au développement de modules complets.
 
 
 ### 2016-2020
-**Econocom, Lille, Decathlon** - *Ingénieur Logiciel ; Référent Technique*
+**Econocom, Lille, Decathlon** - *Ingénieur Logiciel - Référent Technique*
 
 Decathlon est l'un des plus importants concepteurs et distributeurs d'équipements sportifs dans le monde.
 Dans le but de se doter d'un nouveau site e-commerce et de factures pleinement dématérialisées, une API REST efficace, évolutive et permettant une utilisation omni-devices a été développée.
