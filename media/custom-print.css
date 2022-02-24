@@ -72,10 +72,10 @@ body {
 p {
 	color: #2F4F4F;
 	position: relative;
-	left: 20%;
+	left: 15%;
 	/* margin-bottom: 0.2em; */
 	margin-right: 0;
-	width: 80%;
+	width: 85%;
 	/* line-height : 1em; */
 }
 
@@ -109,7 +109,7 @@ h2 {
 	position: relative;
 	text-align: right;
 	/* line-height: 1em; */
-	width: 20%;
+	width: 10%;
 }
 
 h3 {
@@ -120,7 +120,7 @@ h3 {
 	position: relative;
 	text-align: right;
 	/* line-height: 1em; */
-	width: 22%;
+	width: 12%;
 }
 
 ul { 
