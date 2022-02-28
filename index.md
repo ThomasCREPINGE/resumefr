@@ -85,7 +85,8 @@ Jenkins
 
 <div class="print" markdown="1">
 
-<h3>Algorithmique</h3><p> ... Python 3.6+ ; Java 1.8</p>
+### Algorithmique
+Python 3.6+ ; Java 1.8
 
 ### Web 
 Django 3 ; Spring Framework (MVC, Data)
