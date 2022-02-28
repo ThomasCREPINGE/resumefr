@@ -4,168 +4,190 @@ title: Thomas CREPINGE
 ---
 # *Thomas CREPINGE*
 
-**Software & Data Engineer**
+**Ingénieur Etude et Développement**
 
+<div class="screen" markdown="1">
 [crepinge.thomas@gmail.com](mailto:crepinge.thomas@gmail.com)
+</div>
+
+<div class="print" markdown="1">
+crepinge.thomas@gmail.com
+</div>
 
 (+33) 06 01 06 58 54
 
 Lille, France
 
+<div class="screen" markdown="1">
+[*GitHub*](https://github.com/ThomasCREPINGE){:target="_blank"}
+</div>
+
+<div class="print" markdown="1">
+*https://thomascrepinge.github.io/resumefr/*
+</div>
 ---
 
+<!--
 {:.description}
-*Driven to build strong artificial intelligence in order to solve global problems, I have five years of experience in development.
-I have successfully launched REST-API for e-commerce and standalone applications for critical industries. 
-I now intend to take part in Data Sciences missions in an environment in need of innovative and high-performance learning models as an engineer familiar with business intelligence and development.
-I enjoy asking questions and finding answers as I have an interest in neurology sciences and human psychology.*
+**
+-->
 
-## Personality
+<div class="screen" markdown="1">
+
+## Personnalité
 
 ### MBTI
 
-<div class= "screen" markdown="1">
-
 [**Virtuose ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
-
-Introverted <progress max="100" value="83"></progress>
-
-Observant <progress max="100" value="69"></progress>
-
-Thinking <progress max="100" value="61"></progress>
-
-Prospecting <progress max="100" value="58"></progress>
 
 </div>
 
-<div class= "print" markdown="1">
+## Compétences
 
-[**Virtuose ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
+<div class="screen" markdown="1">
 
-Introverted : 83% / Observant : 69% / Thinking : 61% / Prospecting : 96%
+### Algorithmique
 
-</div>
-
-## Skills
-
-### Algorithm 
-
-Java 1.8 ; Python 3
+Python 3.6+,
+Java 1.8
 
 ### Web 
 
-Spring Framework (MVC, Data) ; Django
+Django 2 & 3,
+Spring Framework (MVC, Data)
 
 ### Machine Learning 
 
-Pandas ; Numpy ; SKLearn ; Matplotlib ; Scipy
+Pandas, 
+Numpy, 
+SKLearn, 
+Matplotlib, 
+Scipy
 
 ### Database
 
-SQL, Postgresql
+SQL, 
+Postgresql
 
-<div class= "print" markdown="1">
+### Outils
 
-Java 1.8 ; Python 3
+Git, 
+Maven, 
+Sonar, 
+Jenkins
 
-Spring Framework (MVC, Data) ; Django
+### Langues
 
-Pandas ; Numpy ; SKLearn ; Matplotlib ; Scipy
-
-SQL, Postgresql
++ Anglais : *Bon oral et écrit courant* 
++ Korean & Japanese : *Notions*
 
 </div>
 
-### Tools
+<div class="print" markdown="1">
 
+### Algorithmique
+Python 3.6+ ; Java 1.8
+
+### Web 
+Django 3 ; Spring Framework (MVC, Data)
+
+### Database
+SQL ; Postgresql
+
+### Outils
 Git ; Maven ; Sonar ; Jenkins
 
-### Languages
-
-<div class= "screen" markdown="1">
-
-English : *Good oral and excellent written skills* 
-
-Korean & Japanese : *Basics*
-
-</div>
-
-<div class= "print" markdown="1">
-
-English : *Good oral and excellent written skills*
+### Langues
+Anglais - Bon oral et écrit courant
 
 </div>
 
 ## Expériences
 
-### 2020-2021
-**Kept in secret** - *Software Engineer*
+### 2020-2022
+**Confidentiel** - *Ingénieur Logiciel*
 
-In a context of a confidential project in a very sensitive field of work, I brought some improvements to an existent web platform destined for the monitoring of network equipments in order to fit the client's needs.
+&emsp;Dans un contexte de projet confidentiel, j'ai apporté mon expérience à l'amélioration d'une plateforme web destinée à la supervision d'équipements réseau.
 
-As Groovy was mainly used as programming language, my knowledge of Java was useful but I also had to learn some more about others like Python.
-I finally was responsible for the migration of some Python scripts from version 2 to version 3, what made me want to go further and explore all the possibilities it allows.
+&emsp;Etant donné l'utilisation de Groovy comme language de programmation principal, mes connaissances de Java se sont avérées utiles mais j'ai également du en apprendre d'avantage sur Python.
+En conséquence, j'ai pu être attaché à la migration de scripts depuis la version 2 vers la version 3, puis enfin au développement de modules complets.
 
+<!--
+<div class="print" markdown="1">
+&emsp;J'ai également été attaché à la migration de scripts en Python depuis la version 2 vers la version 3, puis enfin au développement de modules complets.
+</div>
+-->
 
 ### 2016-2020
-**Econocom, Lille, Decathlon** - *Software Engineer*
+**Econocom, Lille, Decathlon** - *Ingénieur Logiciel - Référent Technique*
 
-Decathlon is a French retailer dedicated to conceive sporting equipment and provide it all over the world.
-As a result of a new e-commerce website and fully de-materialized invoices, they built a scalable and effective REST API that grants omni-device usage.
+&emsp;Dans le but de se doter d'un nouveau site e-commerce et de factures pleinement dématérialisées, une API REST efficace, évolutive et permettant une utilisation omni-devices a été développée.
+<br />
 
-I was first in charge of fixes and upgrades on the back-end, a three-tiers architecture Spring application.
-Later on with the success of the subsequent deployments in a couple of worldwide countries, I took a step forward as Lead Developer of a five-members team.
-Thus, I set up continous improvment, continuous integration and code review thanks to Sonar and Jenkins suite.
+&emsp;Premièrement, j'ai été responsable, en autonomie, des corrections du côté back-end, une application Spring MVC en achitecture 3-tiers.
+<br />
+
+&emsp;Plus tard, en conséquence des déploiements réussis dans une dizaine de pays à travers le monde, j'ai pu progressé en tant que référent technique dans une équipe de 5 personnes.
+A ce titre, j'ai mis en place de l'amélioration continue, de l'intégration continue et de la relecture de code grâce aux outils Sonar et Jenkins.
 
 ### 2016
-**Sopra Steria, Brussels, European Institutions** - *Software Engineer*
+**Sopra Steria, Brussels, Institutions européennes** - *Stagiaire - Ingénieur Logiciel*
 
-The EU Institutions Business Unit of Sopra Steria was asked for making a web application that have to retrieve the identity of the asylum askeers, based on fingerprints and passport as inputs.
-In tandem with a team of international remote developers specialized in European data systems, I designed an IHM that responds to UX needs in a Java environment using ZK Framework.
+&emsp;La Business Unit 'EU Institutions' de Sopra Steria à Bruxelles a été chargée de produire une application web afin d'identifier les demandeurs d'asile aux frontières, en se servant de données biométriques et administratives (passeports, etc...).
+<br />
+
+&emsp;En tandem avec une équipe de développeurs internationnaux spécialisés dans les systèmes de données européens, j'ai conçu les interfaces qui répondaient aux besoins UX du produit dans un environnement Java utilisant le framework 'ZK Framework'.
 
 ## Formation
 
 ### 2010-2016
-**Institut Supérieur d'Electronique et du Numérique, Lille** - *Engineer's Degree*
+**Institut Supérieur d'Electronique et du Numérique, Lille** - *Diplôme d'Ingénieur*
 
-Project Management and Business Development in Information Technologies
+Gestion de Projet and Ingénierie d'Affaires en Technologies de l'Information
 
-Association : Head of Rock'n'Roll Club, Organizer of a 10K-visitors Rock'n'Roll concert
+Association : Président du club de danse Rock ISEN, Organisation du Rock'n'Lille 2015 (événement de 10.000 visiteurs)
+    
+## Loisirs
 
-### 2021
-**Self-learning on Codecademy**
+<div class="screen" markdown="1">
 
-#### Statistics with Python
+### Challenges de programmation
+**Codingame**
++ [Mon profil](https://www.codingame.com/profile/2ecc5b080c0c41edc84a425e0ca601457107752){:target="_blank"}
 
-#### Basics in Machine Learning
+**HackInScience**
++ [Classement](https://www.hackinscience.org/leaderboard/){:target="_blank"}
++ [Mes solutions](https://github.com/ThomasCREPINGE/hackinsciencesprojects){:target="_blank"}
 
-#### Introduction with Django
+### Sports
+Natation ; Badminton ; Danse
 
-#### Deep-learning with Tensorflows
+### Musique
+Guitariste en groupe ; Imrovisation et Composition ; Chant
 
-## Hobbies
+</div>
 
-### Computer science
+<div class="print" markdown="1">
 
-#### Algorithm challenge
+### Challenges
+Codingame ; HackInScience
 
-Codingame
+### Musique
+Guitariste en groupe ; Improvisation et Composition ; Chant
 
-[Leaderboard HackInScience](https://www.hackinscience.org/leaderboard/){:target="_blank"}
-[ -> My solutions](https://github.com/ThomasCREPINGE/hackinsciencesprojects){:target="_blank"}
+### Sport
+Natation ; Badminton ; Danse
 
-### Music
-Guitar player in a band ; pianist beginner
 
-### Reading
-Biology, Psychology, Philosophy, Politics
+</div>
 
-<div class= "screen" markdown="1">
+
+<div class="screen" markdown="1">
 
 ---
 
 <button id="bt-print" onclick="window.print();">Print !</button>
 
-*Last update: June 2021, 8th*
+*Last update: 28 Février 2022*
 
 </div>
