@@ -109,14 +109,14 @@ Anglais - Bon oral et écrit courant
 
 &emsp;Dans un contexte de projet confidentiel, j'ai apporté mon expérience à l'amélioration d'une plateforme web destinée à la supervision d'équipements réseau.
 
-<div class="screen" markdown="1">
 &emsp;Etant donné l'utilisation de Groovy comme language de programmation principal, mes connaissances de Java se sont avérées utiles mais j'ai également du en apprendre d'avantage sur Python.
 En conséquence, j'ai pu être attaché à la migration de scripts depuis la version 2 vers la version 3, puis enfin au développement de modules complets.
-</div>
 
+<!--
 <div class="print" markdown="1">
 &emsp;J'ai également été attaché à la migration de scripts en Python depuis la version 2 vers la version 3, puis enfin au développement de modules complets.
 </div>
+-->
 
 ### 2016-2020
 **Econocom, Lille, Decathlon** - *Ingénieur Logiciel - Référent Technique*
@@ -128,9 +128,7 @@ En conséquence, j'ai pu être attaché à la migration de scripts depuis la ver
 <br />
 
 &emsp;Plus tard, en conséquence des déploiements réussis dans une dizaine de pays à travers le monde, j'ai pu progressé en tant que référent technique dans une équipe de 5 personnes.
-<div class="screen" markdown="1">
 A ce titre, j'ai mis en place de l'amélioration continue, de l'intégration continue et de la relecture de code grâce aux outils Sonar et Jenkins.
-</div>
 
 ### 2016
 **Sopra Steria, Brussels, Institutions européennes** - *Stagiaire - Ingénieur Logiciel*
