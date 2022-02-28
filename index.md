@@ -85,42 +85,23 @@ Jenkins
 
 <div class="print" markdown="1">
 
-<!--
-Algorithmique :    *Python 3.6+ ; Java 1.8*
-
-Web :              *Django 3 ; Spring Framework (MVC, Data)*
-
-Database :         *SQL ; Postgresql*
-
-Machine Learning : *Pandas ; Numpy ; SKLearn ; Matplotlib ; Scipy*
-
-Outils :           *Git ; Maven ; Sonar ; Jenkins*
-
-Langues :          *Anglais - Bon oral et écrit courant*
--->
 
 ### Algorithmique
-
 Python 3.6+ ; Java 1.8
 
 ### Web 
-
 Django 3 ; Spring Framework (MVC, Data)
 
 ### Machine Learning 
-
 Pandas ; Numpy ; SKLearn ; Matplotlib ; Scipy
 
 ### Database
-
 SQL ; Postgresql
 
 ### Outils
-
 Git ; Maven ; Sonar ; Jenkins
 
 ### Langues
-
 Anglais - Bon oral et écrit courant
 
 </div>
@@ -131,36 +112,38 @@ Anglais - Bon oral et écrit courant
 ### 2020-2022
 **Confidentiel** - *Ingénieur Logiciel*
 
-&ensp;Dans un contexte de projet confidentiel, j'ai apporté mon expérience à l'amélioration d'une plateforme web destinée à la supervision d'équipements réseau.
+&emsp;Dans un contexte de projet confidentiel, j'ai apporté mon expérience à l'amélioration d'une plateforme web destinée à la supervision d'équipements réseau.
 
 <div class="screen" markdown="1">
-&ensp;Etant donné l'utilisation de Groovy comme language de programmation principal, mes connaissances de Java se sont avérées utiles mais j'ai également du en apprendre d'avantage sur Python.
+&emsp;Etant donné l'utilisation de Groovy comme language de programmation principal, mes connaissances de Java se sont avérées utiles mais j'ai également du en apprendre d'avantage sur Python.
 En conséquence, j'ai pu être attaché à la migration de scripts depuis la version 2 vers la version 3, puis enfin au développement de modules complets.
 </div>
 
 <div class="print" markdown="1">
-&ensp;J'ai également été attaché à la migration de scripts en Python depuis la version 2 vers la version 3, puis enfin au développement de modules complets.
+&emsp;J'ai également été attaché à la migration de scripts en Python depuis la version 2 vers la version 3, puis enfin au développement de modules complets.
 </div>
 
 ### 2016-2020
 **Econocom, Lille, Decathlon** - *Ingénieur Logiciel - Référent Technique*
 
-&ensp;Dans le but de se doter d'un nouveau site e-commerce et de factures pleinement dématérialisées, une API REST efficace, évolutive et permettant une utilisation omni-devices a été développée.
+&emsp;Dans le but de se doter d'un nouveau site e-commerce et de factures pleinement dématérialisées, une API REST efficace, évolutive et permettant une utilisation omni-devices a été développée.
 <br />
 
-&ensp;Premièrement, j'ai été responsable, en autonomie, des corrections du côté back-end, une application Spring MVC en achitecture 3-tiers.
+&emsp;Premièrement, j'ai été responsable, en autonomie, des corrections du côté back-end, une application Spring MVC en achitecture 3-tiers.
 <br />
 
-Plus tard, en conséquence des déploiements réussis dans une dizaine de pays à travers le monde, j'ai pu progressé en tant que référent technique dans une équipe de 5 personnes. A ce titre, j'ai mis en place de l'amélioration continue, de l'intégration continue et de la relecture de code grâce aux outils Sonar et Jenkins.
-
+&emsp;Plus tard, en conséquence des déploiements réussis dans une dizaine de pays à travers le monde, j'ai pu progressé en tant que référent technique dans une équipe de 5 personnes.
+<div class="screen" markdown="1">
+A ce titre, j'ai mis en place de l'amélioration continue, de l'intégration continue et de la relecture de code grâce aux outils Sonar et Jenkins.
+</div>
 
 ### 2016
 **Sopra Steria, Brussels, Institutions européennes** - *Stagiaire - Ingénieur Logiciel*
 
-&ensp;La Business Unit 'EU Institutions' de Sopra Steria à Bruxelles a été chargée de produire une application web afin d'identifier les demandeurs d'asile aux frontières, en se servant de données biométriques et administratives (passeports, etc...).
+&emsp;La Business Unit 'EU Institutions' de Sopra Steria à Bruxelles a été chargée de produire une application web afin d'identifier les demandeurs d'asile aux frontières, en se servant de données biométriques et administratives (passeports, etc...).
 <br />
 
-&ensp;En tandem avec une équipe de développeurs internationnaux spécialisés dans les systèmes de données européens, j'ai conçu les interfaces qui répondaient aux besoins UX du produit dans un environnement Java utilisant le framework 'ZK Framework'.
+&emsp;En tandem avec une équipe de développeurs internationnaux spécialisés dans les systèmes de données européens, j'ai conçu les interfaces qui répondaient aux besoins UX du produit dans un environnement Java utilisant le framework 'ZK Framework'.
 
 ## Formation
 
