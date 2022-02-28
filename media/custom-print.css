@@ -75,7 +75,7 @@ p {
 	left: 8%;
 	/* margin-bottom: 0.2em; */
 	margin-right: 0;
-	width: 92%;
+	/* width: 92%; */
 	/* line-height : 1em; */
 }
 
@@ -107,9 +107,10 @@ h2 {
 	color: #0D2D2D;
 	margin-top: 0.2em;
 	position: relative;
-	text-align: right;
+	left: 2%;
+	text-align: left;
 	/* line-height: 1em; */
-	width: 10%;
+	/* width: 10%; */
 }
 
 h3 {
@@ -118,9 +119,10 @@ h3 {
 	color: #1E3E3E;
 	margin-top: 0.2em;
 	position: relative;
-	text-align: right;
+	left: 5%;
+	text-align: left;
 	/* line-height: 1em; */
-	width: 12%;
+	/* width: 12%; */
 }
 
 ul { 
@@ -158,6 +160,16 @@ button {
   visibility: hidden;
 }
 
+em {
+	/* font-weight: bold; */
+	font-style: italic;
+}
+
+strong {
+	font-weight: bold;
+}
+
+
 /*uncomment if use of progress bar*/
 /*
 progress {
@@ -189,15 +201,6 @@ progress {
   border-radius: 15px;
 }
 */
-
-em {
-	/* font-weight: bold; */
-	font-style: italic;
-}
-
-strong {
-	font-weight: bold;
-}
 
 /*
 @media only screen and (max-width: 480px) {
