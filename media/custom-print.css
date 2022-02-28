@@ -59,7 +59,6 @@ body {
 	font: normal normal 400;
 	font-size: 80%;
 	line-height: 1.5em;
-	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
@@ -67,16 +66,6 @@ body {
 
 .screen{
 	display: none;
-}
-
-p {
-	color: #2F4F4F;
-	position: relative;
-	left: 10%;
-	/* margin-bottom: 0.2em; */
-	margin-right: 0;
-	width: 90%;
-	/* line-height : 1em; */
 }
 
 .description {
@@ -119,12 +108,22 @@ h3 {
 	color: #1E3E3E;
 	margin-top: 0.2em;
 	position: relative;
-	left: 5%;
-	text-align: left;
+	text-align: right;
 	/* line-height: 1em; */
-	/* width: 12%; */
+	width: 10%;
 }
 
+p {
+	color: #2F4F4F;
+	position: relative;
+	left: 10%;
+	/* margin-bottom: 0.2em; */
+	margin-right: 0;
+	width: 90%;
+	/* line-height : 1em; */
+}
+
+/*
 ul { 
 	color: #2F4F4F;
 	position: relative;
@@ -132,10 +131,12 @@ ul {
 	margin-bottom: 0.2em;
 	width: 65%;
 }
+*/
 
 /*uncomment to get dashes in the list*/
+/*
 li:before {
-	content: " ";
+	content: " - ";
 	position: relative;
 	left: -0.25em;
 }
@@ -149,12 +150,13 @@ li {
 
 a {
 	color: inherit;
-	/*text-decoration:none*/
+	//text-decoration:none
 }
 
 a:hover {
 	color:#39f
 }
+*/
 
 button {
   visibility: hidden;
