@@ -85,9 +85,7 @@ Jenkins
 
 <div class="print" markdown="1">
 
-
-### Algorithmique
-Python 3.6+ ; Java 1.8
+<h3>Algorithmique</h3><p> ... Python 3.6+ ; Java 1.8</p>
 
 ### Web 
 Django 3 ; Spring Framework (MVC, Data)
@@ -105,7 +103,6 @@ Git ; Maven ; Sonar ; Jenkins
 Anglais - Bon oral et écrit courant
 
 </div>
-
 
 ## Expériences
 
