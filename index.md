@@ -91,9 +91,6 @@ Python 3.6+ ; Java 1.8
 ### Web 
 Django 3 ; Spring Framework (MVC, Data)
 
-### Machine Learning 
-Pandas ; Numpy ; SKLearn ; Matplotlib ; Scipy
-
 ### Database
 SQL ; Postgresql
 
