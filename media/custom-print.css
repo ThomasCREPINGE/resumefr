@@ -103,21 +103,20 @@ h2 {
 }
 
 h3 {
-	font-size: 0.5em;
+	font-size: 0.8em;
 	font-style: italic;
 	color: #1E3E3E;
-	/* line-height: 1em; */
+	line-height: 0.8em;
 	position: relative;
 	text-align: right;
-	/* line-height: 1em; */
 	width: 15%;
 	margin-top: 0.2em;
 }
 
 p {
-	font-size: 0.4em;
+	font-size: 0.7em;
 	color: #2F4F4F;
-	/* line-height : 1em; */
+	line-height : 0.7em; */
 	position: relative;
 	left: 10%;
 	width: 90%;
