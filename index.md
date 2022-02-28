@@ -136,11 +136,13 @@ Anglais - Bon oral et écrit courant
 Dans un contexte de projet confidentiel, j'ai apporté mon expérience à l'amélioration d'une plateforme web destinée à la supervision d'équipements réseau.
 
 <div class="screen" markdown="1">
+<br />
 Etant donné l'utilisation de Groovy comme language de programmation principal, mes connaissances de Java se sont avérées utiles mais j'ai également du en apprendre d'avantage sur Python.
 En conséquence, j'ai pu être attaché à la migration de scripts depuis la version 2 vers la version 3, puis enfin au développement de modules complets.
 </div>
 
 <div class="print" markdown="1">
+<br />
 J'ai également été attaché à la migration de scripts en Python depuis la version 2 vers la version 3, puis enfin au développement de modules complets.
 </div>
 
@@ -149,11 +151,15 @@ J'ai également été attaché à la migration de scripts en Python depuis la ve
 
 <div class="screen" markdown="1">
 Decathlon est l'un des plus importants concepteurs et distributeurs d'équipements sportifs dans le monde.
+<br />
 </div>
 
 Dans le but de se doter d'un nouveau site e-commerce et de factures pleinement dématérialisées, une API REST efficace, évolutive et permettant une utilisation omni-devices a été développée.
+<br />
 
 Premièrement, j'ai été responsable, en autonomie, des corrections du côté back-end, une application Spring MVC en achitecture 3-tiers.
+<br />
+
 Plus tard, en conséquence des déploiements réussis dans une dizaine de pays à travers le monde, j'ai pu progressé en tant que référent technique dans une équipe de 5 personnes. A ce titre, j'ai mis en place de l'amélioration continue, de l'intégration continue et de la relecture de code grâce aux outils Sonar et Jenkins.
 
 
@@ -161,7 +167,10 @@ Plus tard, en conséquence des déploiements réussis dans une dizaine de pays �
 **Sopra Steria, Brussels, Institutions européennes** - *Stagiaire - Ingénieur Logiciel*
 
 La Business Unit 'EU Institutions' de Sopra Steria à Bruxelles a été chargée de produire une application web afin d'identifier les demandeurs d'asile aux frontières, en se servant de données biométriques et administratives (passeports, etc...).
+<br />
+
 En tandem avec une équipe de développeurs internationnaux spécialisés dans les systèmes de données européens, j'ai conçu les interfaces qui répondaient aux besoins UX du produit dans un environnement Java utilisant le framework 'ZK Framework'.
+<br />
 
 ## Formation
 
