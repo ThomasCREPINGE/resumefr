@@ -171,11 +171,15 @@ Guitariste en groupe ; Imrovisation et Composition ; Chant
 
 <div class="print" markdown="1">
 
-Challenges de programmation : *Codingame ; HackInScience*
+### Challenges
+Codingame ; HackInScience
 
-Sport :                       *Natation ; Badminton ; Danse*
+### Musique
+Guitariste en groupe ; Improvisation et Composition ; Chant
 
-Musique :                     *Guitariste en groupe ; Imrovisation et Composition ; Chant*
+### Sport
+Natation ; Badminton ; Danse
+
 
 </div>
 
