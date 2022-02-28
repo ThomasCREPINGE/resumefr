@@ -6,7 +6,13 @@ title: Thomas CREPINGE
 
 **Ingénieur Etude et Développement**
 
+<div class="screen" markdown="1">
 [crepinge.thomas@gmail.com](mailto:crepinge.thomas@gmail.com)
+</div>
+
+<div class="print" markdown="1">
+crepinge.thomas@gmail.com
+</div>
 
 (+33) 06 01 06 58 54
 
@@ -17,7 +23,7 @@ Lille, France
 </div>
 
 <div class="print" markdown="1">
-CV en ligne : *https://thomascrepinge.github.io/resumefr/*
+*https://thomascrepinge.github.io/resumefr/*
 </div>
 ---
 
@@ -26,21 +32,17 @@ CV en ligne : *https://thomascrepinge.github.io/resumefr/*
 **
 -->
 
+
+<div class="screen" markdown="1">
+
 ## Personnalité
 
 ### MBTI
 
-<div class="screen" markdown="1">
-
 [**Virtuose ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
 
 </div>
 
-<div class="print" markdown="1">
-
-[**Virtuose ISTP**](https://www.16personalities.com/istps-at-work){:target="_blank"}
-
-</div>
 
 ## Compétences
 
@@ -85,9 +87,10 @@ Jenkins
 
 <div class="print" markdown="1">
 
+<!--
 Algorithmique :    *Python 3.6+ ; Java 1.8*
 
-Web :              *Django 2 & 3 ; Spring Framework (MVC, Data)*
+Web :              *Django 3 ; Spring Framework (MVC, Data)*
 
 Database :         *SQL ; Postgresql*
 
@@ -96,6 +99,31 @@ Machine Learning : *Pandas ; Numpy ; SKLearn ; Matplotlib ; Scipy*
 Outils :           *Git ; Maven ; Sonar ; Jenkins*
 
 Langues :          *Anglais - Bon oral et écrit courant*
+-->
+
+### Algorithmique
+
+Python 3.6+ ; Java 1.8
+
+### Web 
+
+Django 3 ; Spring Framework (MVC, Data)
+
+### Machine Learning 
+
+Pandas ; Numpy ; SKLearn ; Matplotlib ; Scipy
+
+### Database
+
+SQL ; Postgresql
+
+### Outils
+
+Git ; Maven ; Sonar ; Jenkins
+
+### Langues
+
+Anglais - Bon oral et écrit courant
 
 </div>
 
@@ -107,19 +135,26 @@ Langues :          *Anglais - Bon oral et écrit courant*
 
 Dans un contexte de projet confidentiel, j'ai apporté mon expérience à l'amélioration d'une plateforme web destinée à la supervision d'équipements réseau.
 
+<div class="screen" markdown="1">
 Etant donné l'utilisation de Groovy comme language de programmation principal, mes connaissances de Java se sont avérées utiles mais j'ai également du en apprendre d'avantage sur Python.
 En conséquence, j'ai pu être attaché à la migration de scripts depuis la version 2 vers la version 3, puis enfin au développement de modules complets.
+</div>
 
+<div class="print" markdown="1">
+J'ai également été attaché à la migration de scripts en Python depuis la version 2 vers la version 3, puis enfin au développement de modules complets.
+</div>
 
 ### 2016-2020
 **Econocom, Lille, Decathlon** - *Ingénieur Logiciel - Référent Technique*
 
+<div class="screen" markdown="1">
 Decathlon est l'un des plus importants concepteurs et distributeurs d'équipements sportifs dans le monde.
+</div>
+
 Dans le but de se doter d'un nouveau site e-commerce et de factures pleinement dématérialisées, une API REST efficace, évolutive et permettant une utilisation omni-devices a été développée.
 
 Premièrement, j'ai été responsable, en autonomie, des corrections du côté back-end, une application Spring MVC en achitecture 3-tiers.
-Plus tard, en conséquence des déploiements réussis dans une dizaine de pays à travers le monde, j'ai pu progressé en tant que référent technique dans une équipe de 5 personnes.
-A ce titre, j'ai mis en place de l'amélioration continue, de l'intégration continue et de la relecture de code grâce aux outils Sonar et Jenkins.
+Plus tard, en conséquence des déploiements réussis dans une dizaine de pays à travers le monde, j'ai pu progressé en tant que référent technique dans une équipe de 5 personnes. A ce titre, j'ai mis en place de l'amélioration continue, de l'intégration continue et de la relecture de code grâce aux outils Sonar et Jenkins.
 
 
 ### 2016
