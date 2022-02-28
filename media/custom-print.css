@@ -57,7 +57,7 @@ html, body {
 
 body {
 	font: normal normal 400;
-	font-size: 80%;
+	font-size: 70%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
@@ -72,10 +72,10 @@ body {
 p {
 	color: #2F4F4F;
 	position: relative;
-	left: 8%;
+	left: 10%;
 	/* margin-bottom: 0.2em; */
 	margin-right: 0;
-	width: 92%;
+	width: 90%;
 	/* line-height : 1em; */
 }
 
@@ -107,7 +107,7 @@ h2 {
 	color: #0D2D2D;
 	margin-top: 0.2em;
 	position: relative;
-	left: 2%;
+	left: 0%;
 	text-align: left;
 	/* line-height: 1em; */
 	/* width: 10%; */
